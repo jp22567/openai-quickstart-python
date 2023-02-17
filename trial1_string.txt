@@ -1,0 +1,1833 @@
+Non-Interventional Study Protocol
+Study Short Title
+Evaluation of the sensitivity and specificity of a novel quality of life (QoL)
+tool to assess the treatment satisfaction in psoriasis patients
+STUDY IDENTIFICATION No. 2020-A00652-37
+Full Study Title
+Evaluation of the sensitivity and specificity, compared to DLQI as a standard tool, of a novel
+QoL questionnaire (treat to the PSOriasis patient satiSfactiOn TARGET) among moderate to
+severe psoriasis patients treated with brodalumab (Kyntheum®)
+GPP statement: This Non-Interventional Study will be conducted in compliance with the
+Clinical Study Protocol, Good Pharmacoepidemiology Practices and
+applicable regulatory requirement(s).
+Sponsoring entity:
+LEO Pharma France
+LEO Study ID: PSO-TARGET
+2 rue René Caudron
+215 avenue Georges Clemenceau
+78960 Voisins-Le-Bretonneux
+Date: 25-05-2020
+Version: 2.0
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 2 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+KEY STUDY PERSONNEL
+STUDY MANAGER
+BERTRAND Bénédicte, Clinical Manager
+CLINACT
+Vélizy Espace – Immeuble Santos Dumont
+13 avenue Morane Saulnier – CS 50730
+78457 Vélizy-Villacoublay Cedex, France
+MAIN PROTOCOL AUTHOR
+SALTET DE SABLET Thibaut, Medical Writer
+CLINACT
+Vélizy Espace – Immeuble Santos Dumont
+13 avenue Morane Saulnier – CS 50730
+78457 Vélizy-Villacoublay Cedex, France
+STATISTICIAN
+CARRERE Florence, Head of Biometry /
+Senior Biostatistician
+STATITEC
+Vélizy Espace – Immeuble Santos Dumont
+13 avenue Morane Saulnier – CS 50730
+78457 Vélizy-Villacoublay Cedex, France
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 3 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+APPROVERS
+The following person(s) within LEO Pharma (LEO) has/have approved this Study Protocol by
+signing the Non-Interventional Study Protocol Approval Form adjoined as a separate page to
+this document:
+Nadine MacKenzie
+Medical director, France and Benelux
+Sarah Moumane
+Dermatology MSL manager, France
+Angèle GUILBOT
+Scientific and Regulatory Director
+CLINACT
+Vélizy Espace – Immeuble Santos Dumont
+13 avenue Morane Saulnier – CS 50730
+78457 Vélizy-Villacoublay Cedex, France
+Dr Ziad REGUIAI
+International Co-ordinating Investigator
+Polyclinique Reims-Bezannes
+89 Rue Victor De Broglie
+51430 Bezannes, FRANCE
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 4 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+1 Table of Contents
+1 Table of Contents ................................................................................................................... 4
+2 List of Abbreviations .............................................................................................................. 7
+3 Responsible Parties ................................................................................................................ 8
+4 Abstract ................................................................................................................................ 10
+5 Amendments and Updates .................................................................................................. 15
+6 Milestones ........................................................................................................................... 16
+7 Rationale and Background ................................................................................................... 16
+8 Research Question and Objectives ...................................................................................... 20
+Primary Objective ............................................................................................................ 20
+Secondary Objectives ...................................................................................................... 20
+9 Research Method................................................................................................................. 20
+Study Design .................................................................................................................... 20
+Eligibility criteria .......................................................................................................... 20
+PSO-TARGET Quality of Life Component grid. ............................................................. 21
+Dermatology Quality of Life Index (DLQI) .................................................................... 22
+Limitation of bias ......................................................................................................... 23
+Study Schedule ............................................................................................................ 23
+Definition of a non-interventional study ..................................................................... 24
+Setting .............................................................................................................................. 25
+Variables .......................................................................................................................... 26
+Data Source ..................................................................................................................... 28
+Study Size ......................................................................................................................... 29
+Data Management ........................................................................................................... 30
+Data Analysis ................................................................................................................... 32
+Statistical Analysis Plan.................................................................................................... 32
+Description of the population ..................................................................................... 32
+Baseline characteristics ............................................................................................... 33
+Sensitivity/sensibility analysis ..................................................................................... 33
+Efficacy analysis ........................................................................................................... 35
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 5 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Other secondary analyses ........................................................................................... 36
+Safety analysis ............................................................................................................. 39
+Quality Control ................................................................................................................ 39
+Data Collection ............................................................................................................ 39
+Data monitoring........................................................................................................... 39
+Data validation............................................................................................................. 40
+Limitations of Research Methods .................................................................................... 40
+Other Aspects .................................................................................................................. 41
+10 Protection of human subjects ............................................................................................. 41
+11 Management and Reporting of Adverse Events and Other Experiences ............................ 44
+Definitions ....................................................................................................................... 44
+Physician’s responsibility for reporting of Adverse Drug Reactions, Adverse Events and
+Other Experiences ........................................................................................................... 45
+LEO responsibilities for reporting of safety-related data ................................................ 47
+12 Plans for Disseminating and Communicating Study Results ............................................... 47
+13 References ........................................................................................................................... 48
+Annex 1. PSO-TARGET Component Grid ................................................................................... 51
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 6 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+APPENDICES
+1. PSO-TARGET Component grid
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 7 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+2 List of Abbreviations
+ADR: Adverse Drug Reaction
+AE: Adverse Event
+CRF: Case Report Form
+CRO: Contract Research Organization
+DLQI: Dermatology Quality of Life Index
+HCP: Healthcare Practitioner
+IEC: Independent Ethics Committee
+IRB: Institutional Review Board
+LEO LEO Pharma A/S and/or affiliates or representatives
+MedDRA: Medical dictionary for Regulatory Activities
+NIS: Non-Interventional Study
+OE: Other Experience
+PASI: Psoriasis Area and Severity Index
+PRO: Patient Reported Outcome
+QoL: Quality of Life
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 8 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+3 Responsible Parties
+Sponsor : LEO pharma France
+2 Rue René Caudron
+78960 Voisins-le-Bretonneux
+France
+Study Sponsor Contact: Yassmina Mandouri
+2 Rue René Caudron,
+78960 Voisins-le-Bretonneux
+Email yamfr @leo-pharma.com
+Contract Research Organization: CLINACT
+Vélizy Espace, bâtiment Santos Dumont
+13 Avenue Morane Saulnier
+78140 Vélizy-Villacoublay
+Coordinating Investigator:
+Dr Ziad REGUIAI
+Polyclinique Reims-Bezannes
+89 Rue Victor De Broglie
+51430 Bezannes, FRANCE
+Scientific committee:
+Dr Pierre-Dominique GHISLAIN
+Cliniques Universitaires Saint Luc – Université Catholique de Louvain
+Avenue Hippocrate 10,
+1200 Woluwe- Saint-Lambert
+Dr Thierry BOYE
+Hôpital d'Instruction des armées SAINTE ANNE (TOULON)
+BCRM TOULON 2 boulevard Sainte Anne BP 600 – 83800 TOULON Cedex 9
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 9 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Dr Ziad REGUIAI
+Polyclinique Reims-Bezannes
+89 Rue Victor De Broglie
+51430 Bezannes, France
+LEO Pharma legal entity is the sponsor of the study and the Contract Research Organisation(s)
+(CRO) CLINACT is authorised by LEO to act on behalf of LEO. LEO Pharma 2 Rue René Caudron,
+78960 Voisins-le-Bretonneux, France will be the Data Controller.
+Contact and responsibilities of all parties contributing to the study, including all investigators,
+are detailed in a stand-alone document available upon request to LEO. For key contributors,
+e.g. national coordinating investigators, LEO will keep CVs and documentation regarding
+Conflicts of Interest and make such documentation available upon request from relevant
+parties, e.g. authorities, journals. LEO will keep a record of all relevant sponsor personnel.
+CLINACT will keep a record of all involved CRO personnel.
+The following essential documents must be in the hands of LEO before the study is initiated at
+a site:
+ Written agreement between LEO or CLINACT and the Study Site Responsible / Clinic /
+Hospital.
+ Signed and dated protocol agreement and amendment agreements, if any, with the
+original signature of the Site Responsible.
+ Patient Information Sheet and Informed Consent Form in local language (notified to /
+approved by Independent Ethics Committees (IECs).
+ Written IEC / IRB approval.
+ Competent Authority notification.
+ Product liability insurance.
+ LEO safety plan which is a three party agreement between Global safety, Safety contact
+person and the CRO on the handling of safety reporting
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 10 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+4 Abstract
+Title
+Evaluation of the sensitivity and specificity, compared to DLQI as a standard tool, of a novel
+QOL questionnaire (treat to the Patient satiSfactiOn TARGET in Psoriasis patients) among
+moderate to severe psoriasis patients treated with brodalumab (Kyntheum®)
+Rationale and background
+The severity of psoriasis can be influenced by a great variety of factors including extent of the
+disease, lesions location and impact on quality of life. The current standard of care for psoriasis
+is focusing on the reduction of the skin symptoms as defined by the PASI, somewhat setting
+asides the patient’s feelings in terms of which aspects of his/her life are affected by the
+disease. Despite the fact that multiple patient reported outcomes (PRO) questionnaires are
+available to evaluate the impact of the disease on patients’ quality of life, only few items
+address the subjective impact of skin disease. Among the available PROs the Dermatology Life
+Quality Index (DLQI) is the most frequently used. It is a standardized tool designed to cover a
+broad range of dermatologic afflictions but lacks specificity towards the effect of psoriasis on
+quality of life. The DLQI is composed of ten questions grouped in 6 domains “symptoms and
+feelings”, “daily activities”, “leisure”, “work/school”, “personal relationships” and “treatment”.
+Each answer is graded from 0 to 3. The DLQI score is calculated by adding the score of each
+question, resulting in a maximum score of 30 and a minimum of 0. The higher the score, the
+more quality of life is impaired. A score higher than 10 indicates that the patient's life is being
+severely affected by their skin disease.
+Because of its limitations, some patients cannot seem to completely restore a normal quality
+of life (e.g. DLQI 0-1) even though their reached a perfect PASI score (100). This phenomenon
+may be explained by the fact that the patient’s own perception can be different from the
+physician’s perspective and may have changed in time, between follow-ups. These are as many
+reasons as why it is highly difficult to accurately fathom the therapeutic expectations of the
+psoriasis patients. The standard tools currently in use are not able to assess the perception of
+the disease by the patient its evolution over time. In addition, it is widely recognized that
+alexithymia is more prevalent in the psoriasis patients than in the general population and
+patients with alexithymia appear to suffer higher psoriasis burden as they have more
+difficulties to express their expectations. Since patients struggle to recognize and verbalize
+their emotions, it can be useful and informative to offer patients a variety of verbatim in which
+
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 11 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+they can identify. PSO-TARGET is an exploratory observational, non-interventional study
+aiming to evaluate a novel approach of assessing psoriasis patients’ satisfaction towards their
+biologic treatment from a quality of life standpoint by using a psoriasis-specific Quality of Life
+assessment grid.
+Research question and objectives
+The aim of this exploratory study is to evaluate the sensitivity and specifity of the PSO-
+TARGET QoL Component grid as part of a new approach for assessing the level of achievement
+of the psoriasis patient’s therapeutic goal, identified by himself, after a treatment with
+Kyntheum®. This tool will be, if validated, used by physicians to devise a “Treat to patient
+satisfaction target” strategy that better suits their patients’ expectations.
+To construct this new questionnaire, the first step was to collect psoriasis patients’
+feedback on what is the aspect of their life that is the most impacted by the disease and which
+is the one they would want to improve the most. To this aim, a retrospective survey based on
+the recollection and experience from three clinical dermatologists (two French and one
+Belgian) of patient’s expectations, has been conducted. The results of the survey have been
+used to analyse the type of expectations provided by the patients. Based on that analysis, the
+expert dermatologists generated a grid containing 12 therapeutic goals equally distributed into
+the four major psychometric components classically used in quality of life studies in patients
+with chronic diseases (physical, subjective, relational/social and therapeutic). The proposed
+verbatim was then reviewed by a psychologist to ensure that there was a balance between the
+proposals; i.e. the vocabulary used was neutral enough not to guide the choices. This first step
+has therefore given rise to a QoL component grid that will be administered to the patients
+prior to the initiation of a systemic treatment (Kyntheum® / brodalumab) to set up a main
+objective for the upcoming treatment. At 12-16 weeks the patient will be asked to rate his/her
+level of satisfaction in regard to the treatment objective defined prior to treatment initiation
+using a four-point Likert scale (“very satisfied”, “satisfied”, “unsatisfied”, “very unsatisfied”). In
+order to evaluate the sensitivity and specificity of, the PSO-TARGET QoL component grid, the
+patient will be asked to fill in, prior the treatment introduction and during the follow up visits,
+the DLQI questionnaire. The primary objective of the study will be to estimate the level of
+concordance of this satisfaction level based on the PSO-TARGET QOL tool and the reference
+method in Quality of Life for psoriasis patients; i.e. the DLQI, at the same time point. This aim
+will be reached by comparing, at 12-16 weeks, the DLQI and the satisfaction level given by
+patients in regard to their own treatment objective defined at baseline using the PSO-TARGET
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 12 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+QoL component grid. True Positive (TP), False Positive (FP), True Negative (TN) and False
+Negative (FN) will be defined using a contingency table. These quantitative variables will be
+used to calculate the sensitivity (proportion of actual satisfied patients that are correctly
+identified as such) and specificity (proportion of actual unsatisfied patients that are correctly
+identified as such) of the PSO-TARGET QoL Component grid, compared to the quality of life
+given by the DLQI. If these metrics reach a certain threshold (85%), the PSO-TARGET QoL
+component grid will be considered for additional studies in order to validate it at a larger scale
+and further demonstrate it is as much sound in assessing the patients’ quality of life as the
+DLQI.
+Because of the fact that alexithymia is highly prevalent in psoriasis patients, the grid will
+be administered to the patient after he/she had spontaneously expressed his/her treatment
+expectations. This should help the patient to narrow down the specific goal where his/her
+expectation belongs. In addition, as part of a secondary objective the treating physician will
+also choose an item from the table based on what he/she perceives in terms of patient’s
+expectations without disclosing it to the patient. This will allow us to evaluate the level of
+accordance between the physician-chosen and the patient-chosen therapeutic goal. As
+another secondary endpoint, the level of achievement of the therapeutic goal will be assessed
+at 12/16 weeks and followed-up for 52 ± 4 weeks. Patients scoring the treatment as “satisfied
+or very satisfied” will be considered as having achieved their therapeutic goal. Another
+endpoint of interest (secondary) will be to assess, after 12/16 weeks of treatment, if the
+patient chooses a new therapeutic goal, different from the one he initially defined.
+It is important to note that, this study being observational, none of the visits (baseline
+and follow-ups) are specific to the trial but part of the dermatologists’ standard of care in both
+countries (France and Belgium). In addition, in order to limit variability in terms of treatment
+profiles (dosage and administration schedule) and thus to keep the study population as
+homogenous as possible, it has been decided to include only patients treated by Kyntheum®,
+in other terms Kyntheum® treatment is an accessory to the study but PSO-TARGET will not
+assess Kyntheum® efficacy per se.
+The study objectives are the following:
+Primary objective:
+Assess at week 12/16, post biologic treatment, the sensitivity and the specificity, compared to
+DLQI as a standard tool, of the PSO-TARGET QoL component grid as a novel approach aiming
+to evaluate the patients’ satisfaction with regard of their treatment.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 13 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Secondary objectives:
+- Evaluate at week 12/16, post Kyntheum® treatment, the percentage of patients who has
+achieved the main treatment goal they identified in the QoL component grid at baseline.
+- Identification of predictive factors (among baseline characteristics) of the achievement
+of the main treatment goal;
+- Evaluate the level of agreement between the dimensions reported by the patient and by
+the treating physician;
+- Evaluate at 52 weeks the percentage of patients for whom the therapeutic objective
+initially achieved at the 1st follow-up visit is still maintained;
+- Evaluate the percentage of patients who change their therapeutic objective after 12/16
+weeks of treatment;
+- Follow the evolution of the PASI score (at 12/16 and 52 weeks);
+- Level of accordance between PASI 90/100 and the satisfaction level in regard to the
+therapeutic objective set by the PSO-TARGET QoL Component grid;
+- Follow the evolution of the DLQI score (at 12/16 and 52 weeks).
+Study design
+PSO-TARGET is an observational, non-interventional, prospective, multicentric,
+international, European study requiring no change in the patients’ standard of care (RIPH3 in
+France).
+Population
+Adult patients suffering from moderate to severe psoriasis vulgaris for whom the
+dermatologist decided to prescribe a treatment with Kyntheum®.
+Variables
+Primary endpoint
+- At 12/16 weeks, level of concordance between the satisfaction level in regard to the
+therapeutic objective set by the PSO-TARGET QoL Component grid and the DLQI in
+assessing the impact of the treatment on the patients’ quality of life.
+Secondary endpoints
+- At week 12/16, post Kyntheum® treatment, the percentage of patients who achieved the
+main treatment goal identified by the patient himself in the QoL component grid at
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 14 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+baseline. The therapeutic objective achievement is defined as “satisfied” or “very
+satisfied” response on 4 points Likert scale.
+- Level of concordance between the satisfaction level in regard to the therapeutic
+objective set by the PSO-TARGET QoL Component grid and the DLQI at the 2nd follow-up
+visit (52 ± 4 weeks.).
+- Research of predictive factors (among baseline characteristics) of the achievement of the
+main treatment goal.
+- Percentage of agreement between the physician-reported and the patient-reported
+dimensions at the first follow-up visit.
+- Rate of patients having changed objective at the 1st follow-up visit (12/ 16 weeks).
+- Percentage of patients who have maintained at 52 ± 4 weeks the level of satisfaction
+achieved at the 1st follow-up visit.
+- PASI Scores at baseline, at the 1st follow-up visit (12/ 16 weeks), at the 2nd follow-up visit
+(52 ± 4 weeks.).
+- Level of accordance between PASI 90/100 and the satisfaction level in regard to the
+therapeutic objective set by the PSO-TARGET QoL Component grid.
+- DLQI Scores at baseline, at the 1st follow-up visit (12/ 16 weeks), at the 2nd follow-up visit
+52 ± 4 weeks.
+Data sources
+Patients’ data will be collected at day 0, at the 1st follow-up visit (12/16weeks) and at the
+2nd follow-up visit at 52 ± 4 weeks according to the physician’s practice.
+As a prospective study, the following data will be collected during the patient visit:
+disease history, concomitant treatments, previous anti psoriatic treatment and adverse events.
+In addition, the following study specific data will be collected: disease severity (PASI score),
+quality of life questionnaires (DLQI, PSO-TARGET component grid).
+Study size
+The main criterion is the sensitivity of the PSO-TARGET tool (percentage of patients who
+consider their target objective as being achieved after 12/16 weeks of treatment as defined
+by a “satisfied or very satisfied” response, assessed on a 4 points Likert scale, among patients
+with a DLQI total score of 0 or 1).
+The sample size calculation is based on the following hypotheses :
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 15 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+ Sensitivity : 90%
+ Absolute precision : 10%
+ Type I error : 5%
+ Power at 80%
+ Prevalence: 80% (estimated rate of patients with a DLQI 0-1 after 12 weeks of
+treatment.
+Based on these hypotheses, the sample size needed is estimated at 134 evaluable patients.
+Assuming 10% of patients will not be evaluable on main criterion, 150 patients have to be
+included.
+Data analysis
+Analysis of the primary endpoint
+The performance of the PSO-TARGET QoL component grid to assess the treatment impact on
+the patients’ quality of life will be determined by calculating the sensitivity and specificity of
+the grid compared to the DLQI (reference). The grid will be validated if both the specificity and
+sensitivity parameters reach the 85% threshold.
+Milestones
+Regulatory Submissions: Q2 2020
+Start of data collection Q3 2020
+End of data collection Q2 2022
+Final report Q4 2022
+5 Amendments and Updates
+None
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 16 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+6 Milestones
+Planned dates for study milestones are indicated in the table below:
+Milestone Planned Date
+Start of data collection Q3 2020
+End of data collection Q2 2022
+Final study report Q4 2022
+The start of the study is defined as the date on which the first information on a study patient
+is recorded in the study dataset. LEO will ensure that End-of-Data Collection (End of Study)
+notification is submitted to the concerned authorities and IECs for each site, for each country
+and for the complete study.
+Based on upcoming knowledge, LEO might choose to terminate the study prematurely. In such
+case the Committee(s), study sites, IECs and authorities will be informed promptly.
+7 Rationale and Background
+Psoriasis is a chronic, immune-mediated inflammatory skin disease. Clinical manifestations of
+psoriasis can be of multiple forms, including, among others, plaque psoriasis, guttate psoriasis,
+palmoplantar psoriasis, and pustular psoriasis (Lebwohl, 2018). Psoriasis is characterized by an
+abnormal keratinocyte proliferation in the interfollicular epidermis along with an infiltration
+of antigen-presenting cells and release of pro inflammatory cytokines, leading to a local
+inflammation (Ippagunta et al., 2016; Lowes et al., 2007). The aetiology of the disease is not
+fully understood, but a number of risk factors are recognized, including family history and
+environmental risk factors, such as smoking, stress, obesity, and alcohol consumption (Huerta
+et al., 2007). The prevalence of psoriasis is difficult to evaluate with precision but is estimated
+around 2-4% in western countries (Gelfand et al., 2005; Kurd and Gelfand, 2009; Stern et al.,
+2004). In France, the prevalence of psoriasis is estimated to 4,4 % (Richard et al., 2018).
+Psoriasis causes considerable psychosocial disability and has a major impact on patients’
+quality of life (Krueger et al., 2001).
+The severity of psoriasis can be influenced by a great variety of factors including extent of the
+disease, inflammation, lesions location and impact on quality of life. As those factors can
+fluctuate over time, so can the intensity of the disease and more importantly the patient’s
+perception of his/her affliction. The current standard of care for treatment of psoriasis
+primarily focusing on the reduction of the skin symptoms as defined by the Psoriasis Area
+Severity Index (PASI), somewhat setting asides the patient’s feelings in terms of which aspects
+of his/her life are affected by the disease. Indeed, a multinational study has already shown
+that a discrepancy exists between the physician’s assessment of the disease severity and the
+patient’s (van de Kerkhof et al., 2015). This could be, at least partially, explained by the use of
+standardized tools, by the physician which not necessarily take into consideration the patients
+therapeutic expectation which could sometimes be a subjective parameter. (van de Kerkhof
+et al., 2015). Currently, the higher efficacy observed with new biologics means that PASI 90 or
+even PASI 100 response are increasingly being considered as a new treatment goal (Daudén et
+al., 2016; Kerdel and Zaiac, 2015; Lebwohl et al., 2015). However, other quality of life aspects
+of chronic affections such as psoriasis that are not being assessed by tools like the PASI, must
+not be overlooked Multiple patient reported outcomes (PRO) questionnaires are available to
+evaluate the impact of the disease on patients’ quality of life. Among the available PROs, the
+Dermatology Life Quality Index (DLQI) is the most frequently used (Puig et al., 2017). It is
+composed of ten questions grouped in 6 domains “symptoms and feelings”, “daily activities”,
+“leisure”, “work/school”, “personal relationships” and “treatment”. Each answer is graded
+from 0 to 3. The DLQI is calculated by adding the score of each question, resulting in a
+maximum of 30 and a minimum of 0. The higher the score, the more quality of life is impaired.
+A score higher than 10 indicates that the patient's life is being severely affected by their skin
+disease (Finlay and Khan, 1994). However, the DLQI is a standardized tool which missing
+potentially some quality of life specific issues for psoriasis patient. Consequently, among
+patients, some cannot seem to completely restore a normal quality of life (DLQI 0-1) even
+though they reached a perfect PASI score (100). This phenomenon may be explained by the
+fact that the patient’s own perception can be different from the physician’s perspective and
+may have changed between follow-ups. Although, the Patient Benefit Index has been devised
+to allow the patient to weigh the therapeutic goals in order to define which ones are the most
+important for him/her (using a 4 points Likert Scale, (Augustin et al., 2008)), it is not
+discriminatory enough towards the patient’s principal expectation (Feuerhahn et al., 2012).
+In addition, it is widely recognized that alexithymia (difficulty to express emotion) is more
+prevalent in the psoriasis patients than in the general population and psoriasis patients with
+alexithymia appear to suffer higher psoriasis burden as they have more difficulties to express
+their expectations (Sampogna et al., 2017). Since these patients struggle to recognize and
+verbalize their emotions, it can be useful and informative to offer patients a variety of verbatim
+in which they can identify. Taken together these elements plea for a novel approach that take
+more into consideration the patient’s expectations prior to treatment initiation and not only
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 18 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+the dermatologist symptomatic approach. We therefore believe that it is of importance to
+assess the 4 components of quality of life usually impacted in case of chronic disease as
+defined by Chassany (Chassany, 2003; Forestier et al., 2019), before initiating the systemic
+treatment, in order to define better therapeutics goals in an holistic approach. It is necessary
+to assess this new approach in a homogenous population, thus only patients starting a biologic
+treatment by Kyntheum® at the inclusion in the study will be enrolled. Indeed, satisfaction
+towards a treatment may be influenced by several factors including administration regimen.
+The aim of this study is to evaluate, compared to the DLQI as a standard tool, the
+sensitivity and specificity of the PSO-TARGET QoL Component grid as a new QoL questionnaire
+for assessing the level of satisfaction of the psoriasis patients in achieving the therapeutic goal,
+identified by himself, after a biologic treatment. This study is the first step of an evaluation
+process aiming to validate the PSO-TARGET QoL Component grid. Ultimately, this tool will be
+used by physicians to devise a “Treat to patient satisfaction target” strategy that better suits
+their patients’ expectations. To construct this new questionnaire, the first step has been to
+collect psoriasis patients’ feedback on what is the aspect of their life that is the most impacted
+by the disease and which is the one they would want to improve the most. To this aim a
+retrospective survey based on the recollection and experience from 3 clinical dermatologists
+(2 French and 1 Belgian) of patient’s expectations, was conducted. The results of the survey
+have been used to generate a table containing 12 treatment goals equally distributed into the
+4 major components classically used in quality of life studies in patients suffering from chronic
+diseases (physical, subjective, relational/social and therapeutic) (Chassany, 2003; Forestier et
+al., 2019). The proposed verbatim was then reviewed by a psychologist to ensure that there
+was a balance between the proposals; i.e. the vocabulary used was neutral enough not to
+guide the choices. This component grid will be administered to the patients prior to the
+initiation of a systemic treatment (Kyntheum® / brodalumab) to set up the main therapeutic
+objective (1 out of 12) fitting with his priority expectation from the upcoming treatment. The
+patient will only have access to the 12 treatment goals but not to the category headings.
+Because of the fact that alexithymia is highly prevalent in psoriasis patients, the grid will be
+submitted to the patient after he/she had been asked by the physician to express
+spontaneously his/her treatment expectations. This should help the patient to narrow down
+the item where his/her expectation belongs. At the 1st follow-up visit (12/16 weeks), the level
+of achievement will be assessed using a 4 points Likert scale (“very satisfied”, “satisfied”,
+“unsatisfied”, “very unsatisfied”). In order to evaluate the sensitivity and the specificity of the
+PSO-TARGET QoL component grid, the primary objective of the study will be to estimate the
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 19 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+level of concordance of this satisfaction level and the overall quality of life as defined by the
+DLQI at the same time point. It is important to consider that systemic treatment by Kyntheum®
+is an accessory to the study but the objective of the PSO-TARGET is not to evaluate Kyntheum®
+efficacy.
+As part of secondary objectives, in parallel to that initial assessment by the patient, the
+physician will tick on the grid what would be his patients therapeutic goal based on what he
+knows/understands from the patient’s disease history and therapeutic desires. At the time of
+his/her assessment, the physician will be blinded of the patient’s choice of therapeutic goal.
+The accordance between the physician-chosen and the patient-chosen dimensions will be
+analyzed. The 12 items of the tool will be pooled and analysed by component (physical,
+subjective, relational and therapeutic). At 52 weeks, among other secondary endpoints, the
+maintenance of the level of achievement of the initial objective observed at the 1st follow-up
+visit, will be assessed.
+One of the innovative aspects of this exploratory observational study will be the
+administration of a psoriasis-specific quality of life component grid containing 12 treatment
+objectives grouped in the 4 quality of life components/dimensions usually impacted in patients
+suffering from chronic diseases (Chassany, 2003; Forestier et al., 2019). Those dimensions
+accounting for the burden to bear when suffering from a chronic disease are the following:
+Physical, Subjective, Relational/Social and Therapeutic. Each dimension will include 3 patient’s
+therapeutic goal based on dermatologists’ clinical experience and reviewed by an expert on
+psychometric tools.
+This is an exploratory study, a first step to assess the interest of the PSO-TARGET component
+grid. If the sensitivity and specificity reach an acceptable threshold (85%), the potential of the
+PSO-TARGET grid will be considered for validation in larger clinical studies. Indeed, more
+studies will be needed to test other attributes in order to fully validate the PSO-TARGET grid
+as an alternative to the DLQI for QoL assessment. Once the PSO-TARGET component grid is
+validated, it will prove to be a useful tool for a better design of a therapeutic objective from
+the physician and thus a better care brought to the patient which should improve the patient’s
+satisfaction and treatment adherence.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 20 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+8 Research Question and Objectives
+Primary Objective
+The primary endpoint will be the evaluation at week 12/16 of the sensitivity and the specificity,
+compared to the DLQI as a standard, of the PSO-TARGET QoL component grid to assess the
+level of satisfaction of patient achieving the therapeutic goal, identified by himself.
+The therapeutic objective will be considered as achieved if the patient gives the responses
+“Satisfied” or “Very Satisfied” on the Likert scale. The response will then be compared to the
+DLQI score at 12/16 weeks.
+Secondary Objectives
+- Evaluate the percentage of patients who consider their target objective as being achieved
+after 12/16 weeks of treatment as defined by a “satisfied or very satisfied” response.
+- Level of concordance between the satisfaction level in regard to the therapeutic
+objective set by the PSO-TARGET QoL Component grid and the DLQI at the 2nd follow-up
+visit (52 ± 4 weeks.).
+- Evaluate the level of agreement between the dimensions reported by the patient and by
+the treating physician at baseline.
+- Follow the degree of completeness of the main treatment goal identified at baseline after
+52 weeks.
+- Follow evolution of the PASI score (at 12/16 and 52 weeks).
+- Level of accordance between PASI 90/100 and the satisfaction level in regard to the
+therapeutic objective set by the PSO-TARGET QoL Component grid.
+- Follow evolution of the DLQI score (at 12/16 and 52 weeks).
+- Evaluate the rate of patients who change their therapeutic objective after 12/16 weeks
+of treatment.
+9 Research Method
+Study Design
+Eligibility criteria
+The inclusion criteria are the following:
+ Age > 18 years
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 21 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+ Patient for whom the dermatologist decided to initiate a treatment by Kyntheum®
+according to SmPC.
+ Patient who signed an informed consent.
+The following non-inclusion criteria will be applied:
+ Vulnerable subjects according to the law;
+o pregnant, parturient or breast feeding women;
+o deprived of their freedom by administrative, medical or legal decision or
+who is under trusteeship/guardianship;
+o legally protected, or unable to express their consent to participate;
+o With no affiliation to a social security system;
+ Psychologically/linguistically unable to express their consent to participate;
+ With an hypersensitivity to at least one of the excipients of Kyntheum®;
+ Participating at the same time in another clinical trial.
+PSO-TARGET Quality of Life Component grid.
+As a first step to construct the component grid, a retrospective survey based on the
+recollection and experience from 3 clinical dermatologists (2 French and 1 Belgian) of patient’s
+expectations, has been conducted. The results of the survey have been used to generate a grid
+containing 12 therapeutic goals equally distributed into the 4 major psychometric components
+classically used in quality of life studies in patients suffering from chronic diseases (Chassany,
+2003; Forestier et al., 2019). These four dimensions (cf table 1) are the following:
+- Physical: autonomy, physical capabilities, ability to perform daily activities;
+- Subjective: linked to experienced emotion, anxiety, well-being;
+- Relational/social: with family, friendship or professional environment, engaging
+personal relationships, involvement in social or leisure activities;
+- Therapeutic: linked to treatment, for ex. treatment-/care-related discomfort.
+The investigators participating to the study will agree to implement this table as part of their
+standard of care along with the DLQI questionnaire.
+Table 1: Quality of Life (QoL) component grid
+Physical Subjective Relational/ social Therapeutic
+NIS-PSO-TARGET Non-Interventional Stu
+
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 22 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Not be
+limited/handicaped by
+the pain
+Think less or not at all about
+the disease
+Spend quality time with family,
+friends or colleagues
+Need to think less about
+treatment and care
+Do not feel any
+functional discomfort
+(itching, rash) in my
+daily activities
+Do not feel any anxiety from
+the disease
+Not caring about what people think
+about me
+Encounter very few, if any,
+drug discomfort
+Have freedom of
+movement and
+activities
+Feel serene, have peace of
+mind Have a fulfilling intimate life To be cured quickly
+This grid will be administered to the enrolled patients after signature of the informed consent.
+The patient will be requested to identify what would be his/her main treatment objective.
+Only one item from the list will be picked by the patient. The investigator must not influence
+the patient into choosing a specific component to the table. The patient will have a grid with
+12 proposals in front of him/her and will not be aware of the dimensions to which the
+proposals relate. The four dimensions typically described in chronic diseases will be considered
+only for analysis, but not submitted to patients. The patient will be given some space and time
+to choose the component without any help or supervision from the investigator. This is
+requested in order to avoid social desirability, defined as the tendency of some respondents
+to report an answer in a way they deem to be more socially acceptable than would be their
+"true" answer. The patient will then conceal his/her response in a provided envelope without
+revealing the chosen component to the physician.
+In the meantime, the treating physician will identify the therapeutic objective that is
+supposedly the most important for his patient, based on his/her discussion with him. The
+physician-reported component will be concealed in a separate envelope and compared with
+the patient-chosen component during the analysis of the secondary endpoints.
+As the primary endpoint of the study, the level of achievement of this therapeutic goal at 3
+months (12/16 weeks) will be assessed by a 4-points Likert scale (Very Unsatisfied; Unsatisfied;
+Satisfied; Very Satisfied), and compared to the DLQI scoring classes.
+Dermatology Quality of Life Index (DLQI)
+The DLQI is designed to measure the health-related quality of life of adult patients suffering
+from a skin disease. It can be administered in patients aged 16 years and over and takes only
+few minutes to complete. The DLQI consists of 10 questions concerning patients' perception
+of the impact of skin diseases on different aspects of their health-related quality of life over
+the last week. It is not specific to psoriasis and is the most frequently used patient reported
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 23 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+outcome measure in randomised controlled trials in dermatology in general and in psoriasis
+more specifically (Cardiff University, 2019; Puig et al., 2017).
+The DLQI is composed of ten questions grouped in 6 domains “symptoms and feelings”, “daily
+activities”, “leisure”, “work/school”, “personal relationships” and “treatment”. To each
+question the patient will have the followings choices: “Very much”, “A lot”, “A little”, “Not at
+all” or “not relevant”
+Each answer is graded from 0 (“not relevant”, “not at all” or not answered) to 3 (“very much”).
+The DLQI is calculated by adding the score of each question, resulting in a maximum of 30 and
+a minimum of 0. The higher the score, the more quality of life is impaired. A score higher than
+10 indicates that the patient's life is being severely affected by their skin disease (Finlay and
+Khan, 1994).
+More specifically, the total score will be divided into the following subcategories:
+ 0-1 = no effect at all on patient’s life;
+ 2-5 = small effect on patient’s life;
+ 6-10 = moderate effect on patient’s life;
+ 11-20 = very large effect on patient’s life;
+ 21-30 = extremely large effect on patient’s life.
+Limitation of bias
+In order to limit bias, the sensitivity and specificity analysis need to be performed on a
+population as homogenous as possible. To this end, only patients treated with brodalumab
+(Kyntheum®) will be enrolled. By doing so we will limit the bias due to different treatment
+profiles (schedule of drug administration....). However, Kyntheum® efficacy will not be
+assessed during the study.
+Study Schedule
+The enrolment period is expected to be 5 months. After the patient’s individual
+treatment plan has been decided, he/she will be approached for informed consent to
+participate in the study and deliver data to use for national and pooled analysis.
+Investigators are expected to enter data into the site specific part of the CRF at baseline and
+at any patient contact throughout the duration of the study. In order to complete and sign-off
+the CRF, a medical record may be used as source for historical data.
+Visits will be according to local clinical practice and not decided in advance by the study
+protocol.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 24 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Relevant data from every visit within 52 weeks after baseline will be collected.
+For analysis the following applies:
+Visits that falls within week 12/-16 weeks are proxy for visit at 3 months. If more than one visit
+within this period, the visit closest to week 16 will be used for analysis.
+Visits that falls within week 48-56 weeks are proxy for visit at 12 months (52 weeks ± 4) .If
+more than one visit within this period, the visit closest to week 52 will be used for analysis.
+The study design is the following:
+The study will enrol consecutive patients planned to receive Kyntheum® and fulfilling the
+eligibility criteria. The assignment of the patient to Kyntheum® must not be decided in advance
+by the trial protocol, but must fall within current practice, and the prescription shall be clearly
+separated from the decision to include the patient in the study. The visit schedule is defined
+by the standard of care as there is no extra mandatory visits related to the participation in the
+study. Patients must be informed about the study and asked for consent to use their data, and
+patients willing to participate be enrolled.
+Definition of a non-interventional study
+The study is a ‘non-interventional study’ as defined for drug studies in Directive 2001/20/EC
+(European Commission, 2001) with primary data collection and will follow the guidelines for
+Good Pharmacoepidemiology Practices (Public Policy Committee, 2016).
+This means that:
+ The medicinal product is prescribed in the usual manner in accordance with the terms
+of the marketing authorisation;
+ The assignment of the patient to a particular therapeutic strategy is not decided in
+advance by a trial protocol but falls within current practice and the prescription of the
+medicine is clearly separated from the decision to include the patient in the study
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 25 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+ No additional diagnostic or monitoring procedures are applied to the patients.
+Interviews, questionnaires, blood samples and patient follow-up may be performed as
+part of normal clinical practice.
+ Epidemiological methods are used for the analysis of collected data.
+Setting
+The study is planned to be conducted in approximatively 25 sites in 2 countries. Investigators
+will be clinical dermatologists. Each participating site is expected to include in average 5/6
+patients. In case of slow recruitment in some sites, the other sites will be allowed to enrol up
+to 10 patients. Inclusion requires that Kyntheum® is prescribed in accordance with the
+approved terms of the marketing authorization in the country and that none of the stated
+contraindications apply.
+Caution should be taken by the treating physician concerning any precautions, warnings and
+potential drug interactions stated in the product label.
+Patients should be included in the study only once.
+The study aims to involve sites and investigators that are representative for HCPs that prescribe
+biologics to patients suffering from psoriasis vulgaris. Sites can be hospital (university, private,
+public) dermatology departments, private dermatology clinics, and all sorts of general
+practices. Sites where patients are prescribed Kyntheum®, but for continuation of care are
+routinely referred to a different site without access to prescribe Kyntheum®, should not be
+selected for this study.
+Information about the PSO-TARGET study should be given after the decision is made to
+treat the patient with Kyntheum®. It will be emphasized that the participation study will not
+condition the patient treatment and will not alter the visit schedule defined by the standard
+of care (3 and 12 months). After enrolment (i.e. signature of the Informed Consent Form), the
+physician will provide the patient with the QoL component grid along with the DLQI
+questionnaire. After having explained the purpose of the table in regards to the study, the
+physician shall give the patient enough time to reflect on which component is the most
+important for him/her without influencing him/her. Both questionnaires will be answered
+after this reflection period.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 26 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Variables
+The following data will be collected from the patients’ medical records and reported on the
+CRF by the investigator.
+Consent
+ Unique Study subject number (ISO three letter Country Code, followed by site number
+within country and consecutive patient number within site)
+ Date of Informed Consent (dd.MMM.yyyy)
+ Date of first case report recording (dd.MMM.yyyy)
+Demographics
+ Month/Year of Birth (MMM.yyyy)
+ Gender (Male/Female)
+ Weight (kg)
+ Height (cm)
+Medical History
+ Date of diagnosis of psoriasis (dd.MMM.yyyy)
+ Location of Psoriasis (List: scalp, nail, body, joint involvement, genital or intimate
+psoriasis, other)
+ Body Surface Area (xx%)
+ Commonly associated comorbidities (List: cardiovascular diseases, diabetes,
+hypertension, depression, psoriasis arthritis, inflammatory bowel disease, other)
+ Smoking habits (never, active with pack years, not active with pack years and years
+since stopped)
+ Alcohol consumption (never, occasionally or regularly with number of days/week,
+number of drinks per day when alcohol is used)
+ Prior psoriasis treatment and posology + reason for discontinuation of the last therapy
+administered
+ Standard occupational category.
+Psoriasis treatments during study period
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 27 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+ Study treatment & co-medications (product name, formulation, dose, number of
+prescribed packages, package size)
+ Date of treatment initiation
+ Date of discontinuation (dd.MMM.yyyy)
+ Reason for discontinuation (noncompliance, adverse event, requirement for
+alternative therapy, death, pregnancy, other)
+Severity/effectiveness
+ Psoriasis area and severity index (PASI)
+Patient Reported Outcome
+ Dermatology Life Quality Index (DLQI) score
+ PSO-TARGET QoL component grid
+The collected data are presented in the following flow chart of the 
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 28 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Data Source
+Investigator will complete the CRF with assessments and information according to the
+protocol. In addition, participants (patients) will be asked to enter data about their psoriasis
+symptoms and their Quality of Life, during the data collection period.
+The below described scores will be mandatory:
+Psoriasis Area and Severity Index (PASI) is the most widely used tool for the measurement of
+severity of psoriasis in clinical research. PASI combines the assessment of the severity
+of lesions and the area affected into a single absolute score in the range 0 (no disease) to 72
+(maximal disease).
+Reporter
+Data to be collected Base-line
+Visit (Day 0)
+3 months Visit
+(week 12-16)
+12 months visit
+(week 48-56)
+Investigator
+Unique Study subject
+Month/Year of Birth
+Gender
+Weight
+Height
+Date of diagnosis
+Location of Psoriasis
+Body Surface Area
+Commonly associated comorbidities
+Smoking habits
+Alcohol consumption
+Prior psoriasis treatment
+Psoriasis treatment during study period
+Date of discontinuation of psoriasis treatment during study
+period
+Reason for discontinuation of psoriasis treatment during study
+period
+PASI
+QoL component grid
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Patient DLQI
+PSO-TARGET QoL component grid
+X
+X
+X
+X
+X
+X
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 29 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+The Dermatology Quality of Life Index (DLQI) is well recognized Quality of Life questionnaire
+in psoriasis and capture a combination of symptoms, impact on daily routines, and feeling of
+stigmatization. It is a simple 10-question validated questionnaire that has been used in over
+40 different skin conditions in over 80 countries and is available in over 90 languages. Its use
+has been described in over 1000 publications including many multinational studies. It is
+recommended to provide indirect measure of disease severity and is well used in studies on
+psoriasis and mentioned in the UK-treatment guideline (for details, see section 9.1.3).
+The PSO-TARGET QoL component grid is a novel tool designed using a retrospective survey
+based on the recollection and experience from 3 clinical dermatologists of patient’s
+expectations. It contains 12 therapeutic goals equally distributed into the 4 major
+psychometric components classically used in quality of life studies in patients suffering from
+chronic diseases (Chassany, 2003; Forestier et al., 2019). These four dimensions are: physical,
+subjective, relational/social and therapeutic. It has never been used before since it was
+designed for the PSO-TARGET study. Each patient will be required to pick only one item in the
+grid as his/her main therapeutic goal (see section 9.1.2). Treatment satisfaction in regards to
+the chosen component will be assessed at 12/16 weeks and 52 weeks by a 4 points Likert Scale
+and the level of concordance will be compared to DLQI scoring classes (described in section
+9.1.2).
+Study Size
+The main criterion is the sensitivity of the PSO-TARGET tool (percentage of patients who
+consider their target objective as being achieved after 12/16 weeks of treatment as defined
+by a “satisfied or very satisfied” response, assessed on a 4 points Likert scale, among patients
+with a DLQI total score of 0 or 1).
+The sample size calculation is based on the following hypotheses:
+Sensitivity: 90%
+Absolute precision : 10%
+Type I error : 5%
+Power at 80%
+Prevalence: 80% (estimated rate of patient with a DLQI 0-1 after 12 weeks of treatment)
+Hypothesis :
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 30 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+H0 : Se = Se0
+H1 : Se = Se1 > Se0
+With Se=sensitivity, Se0=0.8 and Se1=0.9
+Using the binomial probability formula, the sample size necessary to meet both a significance
+level and a power requirement may be found by solving the following two equations
+simultaneously :
+Significance level B ( s1 > s α | n1, Se0) = α
+B (s1 > s α | n1, Se1) = 1 - β
+Where n1 : patients with a DLQI 0-1, s1 : patients with a DLQI 0-1 and a positive test outcome
+With α=0.05 and 1 - β=0.8
+To obtain n, n1 is inflated by the prevalence P (rate of patients with a DLQI 0-1 = 80%), to
+obtain n = n1 / P
+The software used is PASS version 12, using the Li and Fine method (Li and Fine, 2004).
+Based on these hypotheses, the sample size needed is estimated at 134 evaluable patients.
+Assuming 10% of patients will not be evaluable on main criterion, 150 patients have to be
+included.
+Data Management
+The Study Site will receive data collection tools (CRFs, questionnaires) from CLINACT.
+Whenever possible, complete data sets should be entered. Text field entries and any data
+collected on paper should be legible and follow the requested language standard.
+The Study Site Responsible must sign off the complete data set reported by the site for each
+patient, confirming the collected data. Adverse Event and Other experiences reported
+according to section 11 should be signed off separately by a physician involved in the study. A
+causality evaluation should always be provided.
+Data Management will be carried out according to a Data Management Plan which will be
+written and approved before the design of the study database is finalized. The data
+management provider should approve all data formats before the data collection tools are
+made available to the sites.
+If the written informed consent of a patient is known not to be available in spite of it being
+required, data for this patient is not entered into or is deleted from the database.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 31 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+If a patient is erroneously included in the study more than once only the data relating to the
+first inclusion will be kept in the database and be available for analysis. Data from later
+inclusions will be transferred to the first dataset when relevant, i.e. if collected within the time
+frame of the first follow-up period.
+If a patient is included in the study in spite of not being treated according to the approved
+terms of the marketing authorization, data is kept in the database and analysed separately and
+as part of the overall analyses as described in the Statistical Analysis Plan.
+LEO owns the data collected in the CRF and as PRO. General Data Protection Regulation
+(European Commission, 2016) (GDPR) must be adhered to, in addition to any local laws and
+regulations regarding data privacy. The study must follow the EFPIA HCP Code Article 15 Non-
+Interventional Studies of Marketed Medicines (The European Federation of Pharmaceutical
+Industries and Associations, 2008).
+The Study Master File compiled by the CRO should be transferred to LEO affiliate when
+complete. The Complete Study Master File comprises both LEO and CRO compiled documents
+but should not hold duplicates.
+The Study Database compiled by CRO should be transferred to LEO HQ when complete.
+Safety data collection and reporting from this NIS must follow the current version of the EMA
+Guideline on Good pharmacovigilance practices (GVP) Module VI – Management and
+reporting of adverse reactions to medicinal products (European Medicines Agency, 2017). For
+reporting please refer to Section 11.
+The data extracted from medical records and databases is not owned by LEO. The collection
+must be guided by relevant guidance documents, e.g. Guidance for Industry and FDA Staff:
+Best Practices for Conducting and Reporting Pharmacoepidemiologic Safety Studies Using
+Electronic Healthcare Data (Food and Drug Administration, 2013), the ISPOR Good Research.
+Practice for Retrospective Database Analysis Task Force Report (Berger et al., 2009), and the
+European Network of Centres for Pharmacoepidemiology and Pharmacovigilance (ENCePP)
+Guide on Methodological Standards in Pharmacoepidemiology and Code of Conduct
+(European Medicines Agency, 2010).
+When collecting database data, collection and submission of single case safety data is not
+required. For data collected from medical records, please refer to Section 11.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 32 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Data Analysis
+This study is observational and epidemiological methods will be employed for data analyses.
+Descriptive analysis will be performed of all collected data, except data collected only for the
+purpose of data cleaning.
+Section 9.7.1 describes the statistical analyses as foreseen at the time of planning the study.
+Any known deviations from the planned analyses, the reason for such deviations and all
+alternative/additional statistical analyses that may be performed as well as the final statistical
+analysis must be described in a revised Statistical Analysis Plan (SAP) before completion of data
+collection. All later deviations and/or alterations will be summarised in the Clinical Study
+Report.
+Statistical Analysis Plan
+Data analyses will be performed using SAS Version 9.4 or further (SAS Institute, Cary, NC USA
+software).
+Quantitative parameters will be described using the following summary descriptive statistics:
+number of non-missing values, mean, standard deviation, median, first and third quartiles, and
+minimum and maximum values.
+Qualitative parameters will be described overall using frequencies and percentages.
+Percentages will be calculated on the number of non-missing observations.
+The level of significance for all comparisons is set at 0.05 using two-tailed tests. Confidence
+intervals at 95% could be provided, if relevant.
+Description of the population
+The safety population will comprise all included patients having received at least one dose of
+treatment.
+The efficacy population will comprise all included patients who fulfill all inclusion and exclusion
+criteria.
+The total number of patients included in the study, in each analysis population and related
+reasons of exclusion will be described.
+The total number of patients attended each visit, number and reasons of study discontinuation
+will also be described.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 33 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Baseline characteristics
+Baseline and demographic characteristics will be described on the analysis population and will
+be summarized using appropriate summary statistics such as mean, standard deviation,
+median, minimum and maximum for continuous variables, and frequency counts and
+percentages for categorical variables.
+Sensitivity/sensibility analysis
+ Analysis of the primary endpoint
+The primary endpoint will be the evaluation at week 12/16 of the sensitivity and the specificity,
+compared to the DLQI as a standard, of the PSO-TARGET QoL component grid to assess the
+level of satisfaction of patient achieving the therapeutic goal, identified by himself.
+The therapeutic objective will be considered as achieved if the patient gives the responses
+“Satisfied” or “Very Satisfied” on the Likert scale. The response will then be compared to the
+DLQI score at 12/16 weeks.
+It will be described on the efficacy population.
+A contingency table will be constructed as follows:
+PSO-TARGET \ DLQI 0-1 2-5 6-10 11-20 21-30
+Very satisfied TP FP FP FP FP
+Satisfied TP FP FP FP FP
+Unsatisfied FN TN TN TN TN
+Very unsatisfied FN TN TN TN TN
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 34 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+This table can be summarized as :
+PSO-TARGET \ DLQI 0-1 ≥ 2
+Very satisfied ou
+Satisfied TP FP
+Unsatisfied
+ou Very unsatisfied FN TN
+TP: True positive FP: False Positive
+FN: False Negative TN: True Negative
+The validity of the QoL component grid will then be assessed by calculating the following
+parameters:
+Sensitivity: defined as the probability to have patients who have reached their therapeutic
+target (who have responded « satisfied » or « very satisfied » on the Likert scale, globally and
+in each major domains) among patients with a DLQI score between 0 and 1.
+In other terms the sensitivity is defined as the concordance of the QoL component grid and
+the DLQI for the patients with optimal quality of life.
+The sensitivity is calculated by:
+𝑆𝑒 = 𝑇𝑃
+𝑇𝑃 + 𝐹𝑁
+Specificity: defined as the probability to have patients who have not reached their therapeutic
+target (who have responded « unsatisfied » or « very unsatisfied » on the Likert scale, globally
+and in each major domains) among patients with a DLQI score ≥2.
+In other terms the specificity is defined as the concordance of the QoL component grid and
+the DLQI for the patients with suboptimal quality of life.
+The specificity is calculated by:
+𝑆𝑝 = 𝑇𝑁
+𝐹𝑃 + 𝑇𝑁
+The QoL component grid will be validated if these two parameters reach the threshold of 85%.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 35 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Objective Statistical analysis Exposure measure Outcome measure Covariables
+1 Contingency table;
+Sensitivity /
+Specificity
+N/A Concordance level
+between PSO-
+TARGET Component
+grid and DLQI at
+12/16 weeks
+N/A
+ Analysis of the secondary performance endpoints
+Analyses of secondary endpoints will be performed on the efficacy population.
+No replacement of missing data will be performed.
+The same analysis as the primary performance analysis will be performed at 52 weeks.
+Efficacy analysis
+- Secondary objective/endpoint : achievement of target objective at 12 weeks, per
+component
+Evaluation at week 12/16 of the level of achievement of the main treatment goal identified by
+the patient in the table at baseline. This evaluation will be performed using a Likert scale in 4
+points (“very satisfied”, “satisfied”, “unsatisfied”, “very unsatisfied”).
+The achievement of the main treatment goal will be defined as a “satisfied or very satisfied”
+response.
+It will be described on the efficacy population.
+- The proportion of patients with achievement of the main treatment goal will be described
+and the confidence interval at 95% will be provided.
+- The primary analysis will be performed with considering missing data as non responder,
+and a sensitivity analysis will be performed on patients without missing data (observed
+case).
+- Search for predictive factors of efficacy.
+The predictive factors of the achievement of the main treatment goal on completed patients
+will be searched among baseline characteristics using binary logistic regressions models.
+Univariate analyses will be used to select (p-value  0.20) the explanatory variables to include
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 36 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+in the multivariate model. The results of univariate and multivariate analyses will be
+interpreted in terms of odds-ratios with their 95% confidence intervals
+In case of correlated variables, only the more significant in univariate will be include in the
+multivariate model.
+Variables with a rate of missing data ≥ 20%, or those with empty categories or with very small
+number will not be considered eligible for this research of predictive factors.
+As part of one of the secondary objectives, the analyses performed for the efficacy endpoint
+are summarized in the table below :
+Objective Statistical analysis Exposure measure Outcome measure Covariables
+2.a Proportions N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+N/A
+2.b Proportions –
+sensitivity analysis
+N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+N/A
+2.c Binary logistic
+regression models,
+N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+Relevant
+confounders (eg :
+demographic data,
+medical history,
+previous treatment...)
+2.d Proportions N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks for each
+component
+N/A
+Other secondary analyses
+- Description and evolution of PASI
+The PASI score will be described at baseline, W12/16 and W52.
+The change in the PASI score between baseline and W12/16 then between baseline and W52
+will be described by summary descriptive statistics, including 95% confidence interval of the
+mean.
+- Evolution of DLQI
+The change in the DLQI score between baseline and W12/16 then between baseline and W52
+will be described by summary descriptive statistics, including 95% confidence interval of the
+mean.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 37 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+- Level of agreement between the dimensions reported by the patient and by the treating
+physician.
+The proportion of concordant / discordant choices between the dimensions selected at
+baseline by patient and the physician will be described.
+The level of agreement could be evaluated with a Kappa coefficient. Results will be provided
+in both a quantitative and a qualitative way using the following classes : <0 =« no agreement »,
+[0 ; 0.20]=« slight agreement », ]0.20 ; 0.40]=« fair agreement », ]0.40 ; 0.60]=« moderate
+agreement », ]0.60 ; 0.80]=« substantial agreement » et ]0.80 ; 1]=« almost perfect
+agreement ».
+- Maintenance of target objective at W52
+The Maintenance of the main treatment goal will be defined as a “satisfied or very satisfied”
+response at W52 for patients who have achieved their initial treatment goal at W12/16.
+The proportion of patients with maintenance of their main treatment goal at W52 will be
+described.
+- Change of therapeutic objective at the 1st follow-p visit (W12/16).
+The proportion of patients who changed their main treatment goal at W12/16 will be
+described.
+- Level of accordance between PASI ≥ 90 and the satisfaction level in regard to the
+therapeutic objective set by the PSO-TARGET QoL Component grid.
+- The change in the PASI scorebetween baseline and the 1st follow-up visit (W 12/16) will be
+described according to the level of achievement of the main treatment goal (achieved or
+not). The percentages of patients with a PASI ≥ 90 that responded “satisfied or very
+satisfied” on the Likert scale at 12 weeks will be calculated and will be compared to the
+percentages of patients with a PASI≥90 that responded “unsatisfied or very unsatisfied”,
+using a khi2 analysis. In case the populations are too small, a Fisher exact test will be used.
+The analyses performed for the secondary endpoints are summarized in the table below :
+Objective Statistical analysis Exposure measure Outcome measure Covariables
+1 Contingency table;
+Sensitivity /
+Specificity
+N/A Concordance level
+between PSO-
+TARGET Component
+grid and DLQI at
+12/16 weeks
+N/A
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 38 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Objective Statistical analysis Exposure measure Outcome measure Covariables
+2.a Proportions N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+N/A
+2.b Proportions –
+sensitivity analysis
+N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+N/A
+2.c Binary logistic
+regression models,
+N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks
+Relevant
+confounders (eg :
+demographic data,
+medical history,
+previous treatment...)
+2.d Proportions N/A Achievement of the
+main goal (yes /no) at
+12/16 weeks for each
+component
+N/A
+3.a Means N/A Description and
+evolution of PASI
+score at 12/16 then
+52 ± 4 weeks
+N/A
+3.b Mixed effect model
+with repeated
+measurement
+N/A Evolution of PASI
+score over the 52 ± 4
+weeks
+PASI score at baseline
+3.c Means N/A Description and
+evolution of DLQI
+score at 12/16 then
+52 ± 4 weeks
+N/A
+3.d Mixed effect model
+with repeated
+measurement
+N/A Evolution of DLQI
+score over the 52 ± 4
+weeks
+DLQI score at
+baseline
+3.e Proportions.
+Khi-Square analysis
+N/A PASI≥90 versus
+satisfaction level
+(QoL Component
+grid)
+4.a Proportions N/A Proportion of
+concordant choices
+(yes /no)
+N/A
+4.b Kappa coefficient N/A Agreement for the
+selected dimension
+between patient and
+physician
+N/A
+5.a Proportions N/A Maintenance of the
+main goal (yes /no) at
+52 ± 4 weeks
+N/A
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 39 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Objective Statistical analysis Exposure measure Outcome measure Covariables
+6.a Proportions N/A Change of the
+therapeutic objective
+(yes /no) at 12/16
+weeks
+N/A
+Safety analysis
+Study AEs will be tabulated in the final report. AEs will be classified by system organ class
+(SOC), preferred terms (PT) in accordance with the current version of the Medical dictionary
+for Regulatory Activities (MedDRA), causality and seriousness.
+Safety analyses will be performed on the Safety population.
+Quality Control
+LEO Pharma and/or its designee will monitor study data to ensure data quality and
+conformance to Good Clinical Practices (GCPs). Verification of Case Report Form (CRF) data to
+source documentation, assessment of study progress and assessment of Investigator
+compliance to study protocol and Ethics Committee/IRB requirements will be performed
+according to a pre-defined monitoring plan.
+Data Collection
+Data will be collected on printed CRFs by the investigators. The completed CRFs as well as the
+completed questionnaires will be sent to the CRO and entered by a data manager into a
+computer database developed specifically for this study.
+Data will remain anonymous.
+Access to the database will be restricted to personnel responsible for data entry and to data
+management and statistics personnel who are directly involved in the management or analysis
+of this study. Investigators will not have access to the computer database.
+Data monitoring
+The Monitoring Plan is a separate document, in which detailed monitoring arrangements such
+monitoring frequency, timing of monitoring visit, access to source data etc. are defined.
+The level of source data verification will be set in the Monitoring
+he Clinical Research Associate (CRA) will always refer to the currently valid version of the
+Monitoring Plan. Monitoring will be performed by outsource consultant according to validated
+procedures as detailed in the Monitoring Plan.
+Data validation
+All data management activities will be described in the Data Management Plan.
+During the study, data queries will be generated for data items that are potentially erroneous
+and require appropriate clarification or correction. Prior to database lock, statistical
+verification of the data will be undertaken in order to further assure data quality.
+Over the course of the study, the investigator and the members of the investigator's team
+agree to be available during regular Quality Control visits by the Clinical Research Associate.
+During these visits, the following points will be reviewed:
+- Signed informed consent;
+- quality of the data collected in the CRFs: accuracy, missing data, consistency of
+the data with the ‘source’ documents (medical files, appointment books, original copies of
+laboratory results, etc.).
+Limitations of Research Methods
+The complementary value of observational studies relies on their robustness for extrapolation
+to the background environment that they aim to represent. Thus, the study population shall
+be representative which means minimization of site selection bias and patient selection bias.
+In studies of patient treatments, the treatment must be representative, meaning the existence
+of the study should not impact prescription habits.
+However in the current study we are observing Kyntheum® users, the estimates will be
+affected by selection bias, e.g. Confounding by indication and channelling bias. Those patients
+the dermatologist chooses to treat with Kyntheum® in the first time after launch, are likely to
+be the most severe patients who have failed on other treatments available (bias by indication)
+and those patients that are “channelized” to the study sites and further chosen as study
+subjects might differ systematically from that group of patients we are trying to describe
+(channelling bias). The influence of channelling bias is tried minimized by consecutive
+enrolment, ensuring that patients are not chosen by the investigator to participate in the
+study. Additionally we expect selection bias due to informed consent, confounding by missing
+data and attrition depending on disease severity.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 41 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Acknowledging that the study is prone to many sources of bias and confounding, the design
+of this study has been optimized to reflect the patient journeys to the extent possible.
+Other Aspects
+Audits and Inspections
+The Quality Assurance (QA) unit at LEO may audit the study to ensure that study procedures
+comply with the protocol and LEO standard operating procedures, and that collected data is
+correct and complete.
+Representatives from /IEC or Competent Authority may wish to inspect the study on site. Upon
+receiving notification of such inspection, the Study Site Responsible must immediately contact
+LEO and must make the records available as requested.
+Archiving of Study Data and Documentation
+During the course of the study the Site Responsible must as a minimum file the essential
+documents (Section 3), the protocol (all used versions), the list of participating patients, the
+written informed consents, the CRFs and the progress reports in the Study Site File. After final
+database lock the Site Responsible must as a minimum store the list of participating patients
+and the signed Informed Consent Forms on site for at least 5 years or according to local
+regulations (if a longer archiving period is required). The Site Responsible should store
+additional study documentation for a longer period of time as required by any local
+regulations and/or hospital/clinic requirement.
+LEO shall maintain the data and the documentation relating to the study for at least 5 years
+after the studied product is no longer on the market in any country.
+10 Protection of human subjects
+This study is a non-interventional study where the existence of the study has no impact on the
+patient. The treatment of the participating patients will not be any different from patients not
+participating in the study, except for collection of informed consent to use of the patient’s
+data. Informed consent from the patients shall be collected in order to allow collection of non-
+standard data such as the psychosocial component and for data monitoring purposes.
+The Site Study Responsible must give the patient (and if applicable, legal guardian) oral and
+written information about the study in a form that the patient (or legal guardian) can
+
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 42 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+understand, and obtain the patient’s (and if applicable, the patient’s assent and the legal
+guardian’s) written consent before collection by LEO of identifiable patient information
+(hereinafter referred to as personal data). The patient (or legal guardian) must agree that
+his/her data will be processed, stored and may be transferred to third parties, e.g. other
+companies or authorities, that may be located in other countries with potentially different
+regulations for data. Additionally the patient (or legal guardian) must agree that his/her data
+will be transferred to LEO HQ and used for multinational analysis. Before consenting, the
+patient (and if applicable, legal guardian) must be given sufficient time to consider and to pose
+questions. Since the study is observational, the consent only concerns the data collection per
+se and is not consent to any interventional procedure or treatment.
+The patient or legal guardian, if applicable, has the right to withdraw his/her consent at any
+time without prejudice. In the Informed Consent Form it is stated that if consent is withdrawn,
+any data collected before withdrawal of consent will be kept. The original, signed Informed
+Consent Forms must be kept on the Site.
+Data erroneously collected from patients for which written consent is not available, will not be
+included in or will be deleted from the database, as feasible.
+For details, see the Patient Information Sheet and Informed Consent Form.
+This study will be conducted in accordance with the current version of the Declaration of
+Helsinki (World Medical Association, 2013), The European Federation of Pharmaceutical
+Industries and Associations (EFPHIA) HCP Code, Article 15 Non-interventional Studies of
+Marketed Medicines (The European Federation of Pharmaceutical Industries and Associations,
+2008), Good Pharmacoepidemiology Practices (Public Policy Committee, 2016) and any local
+regulations. Special attention will be paid to data privacy protection; General Data Protection
+Regulation (GDPR (European Commission, 2016)), LEO Pharma A/S, Industriparken 55,
+Ballerup will be the data holder.
+LEO/CLINACT will ensure that the protocol and any amendments and the Patient Information
+Sheet/Informed Consent Form, Diary and Questionnaires are submitted to the relevant
+Independent Ethics Committees (IECs) and/or competent authorities and/or other national or
+regional authorities according to local requirements. According to applicable regulations, LEO,
+CLINACT will submit required documents to the IEC, such as:
+ periodic updates on the progress of the study
+ notification of the end-of-study
+ a summary of the study results
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 43 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+LEO will keep a copy of all documents submitted and an updated list of all submission and
+approval dates of all documents submitted to the IEC and/or authorities and will provide the
+Site Responsible with a copy of this list. Copies of the documents will be distributed upon
+request.
+None of the data planned to be collected are expected to have any psychological impact on
+the participants, and the questions posed will be presented in a non-judgmental, objective
+manner so that the impact on the patient’s behaviour and honesty in data reporting is
+minimized. The nature of the collected data will not make it possible to track the patients
+without access to the participant lists and Consent Forms stored at the Study Site. The
+collection of this data is considered ethically justified, based on these precautions and the
+following considerations.
+This study focuses on collecting data on the real-life experience of biologic treated psoriasis
+patients for up to 56 weeks.
+It will be a challenge to keep patients motivated to contribute data to the study long-term,
+but psoriasis patients are generally very willing to share their experience with those lending
+non-judgmental ears to their experience.
+The Site Study Responsible must give the patient oral and written information about the study
+in a form that the patient can understand, and obtain the patient’s written consent before
+collection of identifiable patient information (hereinafter referred to as personal data). Before
+consenting, the patient must be given sufficient time to consider and to pose questions. Since
+the study is observational the consent only concerns the data collection per se and is not
+consent to any interventional procedure or treatment.
+The patient must agree that his/her data will be transferred to LEO and processed and stored,
+and shared with other business partners responsible for Kyntheum® in other markets. In
+addition, the patient must agree that authorized representatives from LEO or local authorities
+with inspection rights get access to their consent documentation and medical records for
+quality checks on protocol compliance and the data entries if requested. Written informed
+consent to use of collected data must always be obtained before collection of any personal,
+sensitive data. Data erroneously collected from patients for which written consent is not
+available, will not be included in or will be deleted from the database, as feasible.
+The patient has the right to withdraw his/her consent at any time without prejudice. In the
+Informed Consent Form it is stated that if consent is withdrawn, any data collected before
+withdrawal of consent will be kept. The original, signed Informed Consent Forms must be kept
+on the Site.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 44 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+11 Management and Reporting of Adverse Events and Other
+Experiences
+Definitions
+Adverse Event
+An adverse event (AE) is any untoward medical occurrence in a patient administered a
+medicinal product and which does not necessarily have to have a causal relationship with this
+treatment. An adverse event can therefore be any unfavourable and unintended sign (e.g. an
+abnormal laboratory finding), symptom, or disease temporally associated with the use of a
+medicinal product, whether or not considered related to the medicinal product.
+Adverse Drug Reaction
+An Adverse Drug Reaction (ADR) is a response to a medicinal product which is noxious and
+unintended. Response in this context means that a causal relationship between a medicinal
+product and an adverse event is at least a reasonable possibility. ADRs may arise from use of
+the product within or outside the terms of the marketing authorisation or from occupational
+exposure.
+Conditions of use outside the marketing authorisation include off-label use, overdose, misuse,
+abuse and medication errors
+Other Experiences
+Other Experiences (OE) are considered ‘non events’ which describe the circumstances around
+the use of a drug which potentially could cause drug related problems or which could
+potentially give positive knowledge of a drug. These may or may not be associated with
+adverse events.
+These events include but are not limited to: unintended beneficial effects, drug exposure in
+utero, drug exposure via breast milk, drug exposure before and/or during pregnancy, paternal
+drug exposure before and/or during pregnancy, occupational exposure, drug overdose or
+abuse, drug misuse, medication error (including potential and intercepted), off label
+use/unapproved use, lack of efficacy, loss of efficacy, drug and food interaction, any suspicion
+of counterfeit product, and suspected transmission of an infectious agent by a medicinal
+product.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 45 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Seriousness
+A serious ADR or AE is any ADR or AE which results in death, is life threatening, requires
+inpatient hospitalisation or prolongation of existing hospitalisation, results in persistent or
+significant disability or incapacity, or is a congenital anomaly or birth defect.
+Life-threatening in this context refers to a reaction in which the patient was at risk of death a
+the time of the event; it does not refer to an event which hypothetically might have caused
+death if it was more severe.
+Medical and scientific judgement should be exercised in deciding whether other situations
+should be considered serious, such as important medical events that might not be immediately
+life-threatening or result in death or hospitalisation but might jeopardise the patient or might
+require intervention to prevent one of the other outcomes listed above.
+Any suspected transmission of an infectious agent via a medicinal product is considered a
+serious ADR.
+Severity
+Severity is a clinical observation and describes the intensity of the event.
+ Mild: Transient symptoms, no interference with the patient’s daily activities
+ Moderate: Marked symptoms, moderate interference with the patient’s daily activities
+ Severe: Considerable interference with the patient’s daily activities.
+Causality
+ Possible:A reasonable temporal relationship between the medicinal product
+administration and the event, and there is no other obvious explanation for the occurrence
+of the event.
+ Not related: There is evidence for (an) alternative explanation(s) for the event (e.g. the
+event is explained by one or more of the following:
+a) the patient’s medical condition,
+b) a concomitant medication for which the event is labelled, or
+c) the event occurred prior to the introduction of the medicinal product).
+Physician’s responsibility for reporting of Adverse Drug Reactions,
+Adverse Events and Other Experiences
+Physicians and other healthcare professionals involved in the study should report to LEO any
+AE (including SAEs), OE or pregnancy in patients who are or were treated with Kyntheum®
+within 24 hours of becoming aware of it.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 46 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+The provided study specific LEO Adverse Event Form – Marketed Products or in case of
+pregnancies – the Pregnancy Form (Part 1) should be used for the reports and completed
+carefully, including the section on causality. A copy of the completed form must be sent, within
+24 hours, to the Safety Contact Person by email or fax (contact details below).
+Contact details of the Safety Contact Persons:
+In France:
+Isabelle CHAILLET-VAN MIERLO
+Telephone Number: +33 1 30 14 40 25
+Email address: pharmacovigilance.fr@leo-pharma.com
+fax number: +33 1 30 14 46 13
+In Belgium:
+Kristien VANELDEREN
+Telephone Number: +32 (0)3 740 78 68
+Email address: drug.safety.be@leo-pharma.com
+The physician should record a precise medical term for the AE or OE, preferably a diagnosis.
+Please observe that death or surgery are considered as outcome, not as an event, so it is the
+event leading to death or surgery which should be recorded.
+Only one AE or OE should be recorded per form. If no diagnosis is available, the physician
+should record each sign and symptom on a separate form. For each AE or OE the causality,
+severity and outcome must be included. Besides the event/experience description, the LEO
+Study ID, and the subject number in the study should be included.
+Important additional information obtained later, e.g. a report of diagnostic procedures or a
+hospital discharge summary should be incorporated, by the reporter, in a follow-up version of
+the already reported AE report and a new causality assessment should be made. The follow-
+up report shall be provided to LEO by the same route as the initial AE report. For non-LEO
+products, the physician should notify local competent authorities or the concerned
+manufacturer/ marketing authorization holder, but not both, of AEs at least possibly related
+to the non-LEO product including a reference to the Study ID or study title.
+LEO may request further information from the physician in order to fully assess the safety
+reports.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 47 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+LEO responsibilities for reporting of safety-related data
+LEO will notify the Competent Authorities of all serious and non-serious ADRs related to LEO
+product(s) according to currently applicable pharmacovigilance guidelines for non-
+interventional studies.
+All safety-related data on study patients collected in the study database or reported to LEO
+according to the normal procedure for marketed drugs, e.g. serious and non-serious ADRs, will
+be summarized in the Non-Interventional Study Report.
+12 Plans for Disseminating and Communicating Study Results
+All efficacy and safety data collected in the study will be summarized in the Non-Interventional
+Study Report
+LEO will prepare a Non-Interventional Study Report based on the results obtained. The Final
+Study Report shall be reviewed and approved by the Coordinating Investigator and be available
+within one year from collection of the last data point. In case the Coordinating Investigator
+changes during study conduct, all investigators will be informed and asked for their consent to
+delegate this responsibility to the new Coordinating Investigator. The sites that have enrolled
+patients in the study will be informed about the results when the report is finalized. Summary
+results will be posted on a publicly accessible database.
+LEO aims to have the results of this study published, and acknowledges the right of the
+participating sites to publish results from this study.
+A primary publication based on all study data and following the STROBE guidelines (von Elm
+et al., 2007) in an international peer reviewed journal is foreseen with the Coordinating
+Investigator as the first or last author, if qualifying as author according to the Vancouver
+guideline/Good Publication Procedures vs3 (Battisti et al., 2015) with details in reference list.
+Any manuscripts for secondary publications or abstracts may not be submitted until after the
+primary publication manuscript has been accepted for publication. Any manuscript or abstract
+must be sent to LEO for commenting at least 30 calendar days prior to submission.
+LEO has the right to use the data and results for regulatory and reimbursement purposes, and
+for internal presentation within the company and to partners. In addition, LEO may use the
+data for analysis of pooled data from various studies.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 48 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+13 References
+Augustin, M., Gajur, A.I., Reich, C., Rustenbach, S.J., and Schaefer, I. (2008). Benefit
+Evaluation in Vitiligo Treatment: Development and Validation of a Patient-Defined Outcome
+Questionnaire. Dermatology 217, 101–106.
+Battisti, W.P., Wager, E., Baltzer, L., Bridges, D., Cairns, A., Carswell, C.I., Citrome, L., Gurr, J.A.,
+Mooney, L.A., Moore, B.J., et al. (2015). Good Publication Practice for Communicating
+Company-Sponsored Medical Research: GPP3Good Publication Practice for Company-
+Sponsored Research (GPP3). Annals of Internal Medicine 163, 461–464.
+Berger, M.L., Mamdani, M., Atkins, D., and Johnson, M.L. (2009). Good Research Practices for
+Comparative Effectiveness Research: Defining, Reporting and Interpreting Nonrandomized
+Studies of Treatment Effects Using Secondary Data Sources: The ISPOR Good Research
+Practices for Retrospective Database Analysis Task Force Report—Part I. Value in Health 12,
+1044–1052.
+Cardiff University (2019). Dermatology Life Quality Index.
+Chassany, O. (2003). De la maladie chronique à la qualité de vie Méthodes d’évaluation.
+Revue Des Maladies Respiratoires 20, 34–37.
+Daudén, E., Puig, L., Ferrándiz, C., Sánchez-Carazo, J.L., Hernanz-Hermosa, J.M., and the
+Spanish Psoriasis Group of the Spanish Academy of Dermatology and Venereology (2016).
+Consensus document on the evaluation and treatment of moderate-to-severe psoriasis:
+Psoriasis Group of the Spanish Academy of Dermatology and Venereology. Journal of the
+European Academy of Dermatology and Venereology 30, 1–18.
+von Elm, E., Altman, D.G., Egger, M., Pocock, S.J., Gøtzsche, P.C., and Vandenbroucke, J.P.
+(2007). The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE)
+statement: guidelines for reporting observational studies. The Lancet 370, 1453–1457.
+European Commission (2001). Directive 2001/20/EC of 4 April 2001 on the approximation of
+the laws, regulations and administrative provisions of the Member States relating to the
+implementation of good clinical practice in the conduct of clinical trials on medicinal
+products for human use, 2001.
+European Commission (2016). Regulation6/679 of the European Parliament and the Council
+of the European Union 27 April 2016 on the protection of natural persons with regard to the
+processing of personal data and on the free movement of such data, and repealing Directive
+95/46/EC (General Data Protection Regulation).
+European Medicines Agency (2010). The European Network of Centres for
+Pharmacoepidemiology and Pharmacovigilance (ENCePP) Guide on Methodological
+Standards in Pharmacoepidemiology (Revision 5).
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 49 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+European Medicines Agency (2017). Guideline on good pharmacovigilance practices (GVP)
+Module VI – Collection, management and submission of reports of suspected adverse
+reactions to medicinal products (Rev 2).
+Feuerhahn, J., Blome, C., Radtke, M., and Augustin, M. (2012). Validation of the patient
+benefit index for the assessment of patient-relevant benefit in the treatment of psoriasis.
+Archives of Dermatological Research 304, 433–441.
+Finlay, A.Y., and Khan, G.K. (1994). Dermatology Life Quality Index (DLQI)—a simple practical
+measure for routine clinical use. Clinical and Experimental Dermatology 19, 210–216.
+Food and Drug Administration (2013). Guidance for Industry and FDA Staff. Best Practices for
+Conducting and Reporting Pharmacoepidemiologic Safety Studies Using Electronic
+Healthcare Data.
+Forestier, B., Anthoine, E., Reguiai, Z., Fohrer, C., and Blanchin, M. (2019). A systematic
+review of dimensions evaluating patient experience in chronic illness. Health and Quality of
+Life Outcomes 17, 19–19.
+Gelfand, J.M., Weinstein, R., Porter, S.B., Neimann, A.L., Berlin, J.A., and Margolis, D.J. (2005).
+Prevalence and Treatment of Psoriasis in the United Kingdom: A Population-Based Study.
+Archives of Dermatology 141, 1537–1541.
+Huerta, C., Rivero, E., and Rodríguez, L.A.G. (2007). Incidence and Risk Factors for Psoriasis in
+the General Population. Archives of Dermatology 143, 1559–1565.
+Ippagunta, S.K., Gangwar, R., Finkelstein, D., Vogel, P., Pelletier, S., Gingras, S., Redecke, V.,
+and Häcker, H. (2016). Keratinocytes contribute intrinsically to psoriasis upon loss of Tnip1
+function. Proceedings of the National Academy of Sciences of the United States of America
+113, E6162–E6171.
+Kerdel, F., and Zaiac, M. (2015). An evolution in switching therapy for psoriasis patients who
+fail to meet treatment goals. Dermatologic Therapy 28, 390–403.
+van de Kerkhof, P.C.M., Reich, K., Kavanaugh, A., Bachelez, H., Barker, J., Girolomoni, G.,
+Langley, R.G., Paul, C.F., Puig, L., and Lebwohl, M.G. (2015). Physician perspectives in the
+management of psoriasis and psoriatic arthritis: results from the population-based
+Multinational Assessment of Psoriasis and Psoriatic Arthritis survey. Journal of the European
+Academy of Dermatology and Venereology : JEADV 29, 2002–2010.
+Krueger, G., Koo, J., Lebwohl, M., Menter, A., Stern, R.S., and Rolstad, T. (2001). The Impact of
+Psoriasis on Quality of Life: Results of a 1998 National Psoriasis Foundation Patient-
+Membership Survey. Archives of Dermatology 137, 280–284.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 50 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+Kurd, S.K., and Gelfand, J.M. (2009). The prevalence of previously diagnosed and
+undiagnosed psoriasis in US adults: results from NHANES 2003-2004. Journal of the American
+Academy of Dermatology 60, 218–224.
+Lebwohl, M. (2018). Psoriasis. Annals of Internal Medicine 168, ITC49–ITC64.
+Lebwohl, M., Strober, B., Menter, A., Gordon, K., Weglowska, J., Puig, L., Papp, K., Spelman,
+L., Toth, D., Kerdel, F., et al. (2015). Phase 3 Studies Comparing Brodalumab with
+Ustekinumab in Psoriasis. N Engl J Med 373, 1318–1328.
+Li, J., and Fine, J. (2004). On sample size for sensitivity and specificity in prospective
+diagnostic accuracy studies. Statistics in Medicine 23, 2537–2550.
+Lowes, M.A., Bowcock, A.M., and Krueger, J.G. (2007). Pathogenesis and therapy of psoriasis.
+Nature 445, 866.
+Public Policy Committee, I.S. of P. (2016). Guidelines for good pharmacoepidemiology
+practice (GPP). Pharmacoepidemiology and Drug Safety 25, 2–10.
+Puig, L., Thom, H., Mollon, P., Tian, H., and Ramakrishna, G.S. (2017). Clear or almost clear
+skin improves the quality of life in patients with moderate-to-severe psoriasis: a systematic
+review and meta-analysis. Journal of the European Academy of Dermatology and
+Venereology 31, 213–220.
+Richard, M.-A., Corgibet, F., Beylot-Barry, M., Barbaud, A., Bodemer, C., Chaussade, V.,
+D’Incan, M., Joly, P., Leccia, M.T., Meurant, J.M., et al. (2018). Sex- and age-adjusted
+prevalence estimates of five chronic inflammatory skin diseases in France: results of the
+« OBJECTIFS PEAU » study. Journal of the European Academy of Dermatology and
+Venereology 32, 1967–1971.
+Sampogna, F., Puig, L., Spuls, P., Girolomoni, G., Radtke, M.A., Kirby, B., Brunori, M.,
+Bergmans, P., Smirnov, P., Rundle, J., et al. (2017). Prevalence of alexithymia in patients with
+psoriasis and its association with disease burden: a multicentre observational study. British
+Journal of Dermatology 176, 1195–1203.
+Stern, R.S., Nijsten, T., Feldman, S.R., Margolis, D.J., and Rolstad, T. (2004). Psoriasis Is
+Common, Carries a Substantial Burden Even When Not Extensive, and Is Associated with
+Widespread Treatment Dissatisfaction. Journal of Investigative Dermatology Symposium
+Proceedings 9, 136–139.
+The European Federation of Pharmaceutical Industries and Associations (2008). EFPIA HCP
+CODE. EFPIA code on the promotion of prescription-only medicines to, and interactions with,
+healthcare professionals.
+NIS-PSO-TARGET Non-Interventional Study Protocol
+Study ID RCB: 2020-A00652-37
+Page 51 of 51
+THIS DOCUMENT CONTAINS TRADE SECRETS, AND/OR COMMERCIAL OR FINANCIAL INFORMATION, PRIVILEGED OR CONFIDENTIAL, DELI-
+VERED IN CONFIDENCE AND RELIANCE THAT SUCH INFORMATION WILL NOT BE COPIED OR MADE AVAILABLE TO ANY THIRD PARTY
+WITHOUT THE WRITTEN CONSENT OF LEO PHARMA A/S
+World Medical Association (2013). World Medical Association Declaration of HelsinkiEthical
+Principles for Medical ResearchInvolving Human Subjects.
+Annex 1. PSO-TARGET Component Grid
+Physical Subjective Relational/ social Therapeutic
+Not be
+limited/handicaped by
+the pain
+Think less or not at all about
+the disease
+Spend quality time with family,
+friends or colleagues
+Need to think less about
+treatment and care
+Do not feel any
+functional discomfort
+(itching, rash) in my
+daily activities
+Do not feel any anxiety from
+the disease
+Not caring about what people think
+about me
+Encounter very few, if any,
+drug discomfort
+Have freedom of
+movement and
+activities
+Feel serene, have peace of
+mind Have a fulfilling intimate life To be cured quick
