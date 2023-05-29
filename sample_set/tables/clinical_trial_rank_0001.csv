@@ -1,0 +1,21 @@
+, ,Data to be collected,Base-line Visit (Day 0),NOT_SELECTED 3 months Visit (week 12-16),12 months visit (week 48-56)
+1, ,Unique Study subject,X, , 
+2, ,Month/Year of Birth,SELECTED X, ,NOT_SELECTED
+3, ,Gender,SELECTED X, , 
+4, ,Weight,SELECTED X, , 
+5, ,Height,SELECTED X, , 
+6, ,Date of diagnosis,SELECTED X, , 
+7, ,Location of Psoriasis,SELECTED X, , 
+8, ,Body Surface Area,SELECTED X, , 
+9, ,Commonly associated comorbidities,SELECTED X,X,SELECTED X
+10, ,Smoking habits,SELECTED X, , 
+11, ,Alcohol consumption,SELECTED X, , 
+12, ,Prior psoriasis treatment,SELECTED X, , 
+13, ,Psoriasis treatment during study period,SELECTED X,X,SELECTED X
+14, ,Date of discontinuation of psoriasis treatment during study period, ,SELECTED X,SELECTED X
+15, ,Reason for discontinuation of psoriasis treatment during study, ,SELECTED X,SELECTED X
+16, ,period, , , 
+17, ,PASI,SELECTED X,SELECTED X,SELECTED X
+18, ,QoL component grid,SELECTED X,NOT_SELECTED X,SELECTED NOT_SELECTED X
+19, ,DLQI,X,SELECTED X,SELECTED X
+20, ,PSO-TARGET QoL component grid,SELECTED X,SELECTED X,SELECTED X

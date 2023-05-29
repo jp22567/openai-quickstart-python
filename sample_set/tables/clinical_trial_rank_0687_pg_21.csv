@@ -1,0 +1,24 @@
+,Study Assessments¹,Screen¹
+1,Informed Consent,SELECTED
+2,Baseline Demographics,SELECTED
+3,Medical History including disease history and characteristics,SELECTED
+4,Physical Exam,SELECTED
+5,Concomitant Medications,SELECTED
+6,Adverse Events 2,SELECTED
+7,Safety,NOT_SELECTED
+8,Ocular Exam³,SELECTED
+9,ECOG Performance Status,SELECTED
+10,"Vital Signs (BP, HR, Body Temperature)",SELECTED
+11,Weight and Height,SELECTED
+12,Hematology4,SELECTED
+13,Clinical chemistry4,SELECTED
+14,Urine Dipstick4,SELECTED
+15,eGFR (by MDRD formula- see Appendix 10),SELECTED X
+16,Spot Urine (albumin/creatinine ratio)4 5,SELECTED
+17,CRP,SELECTED
+18,"HBsAg, HBcAb, and hepatitis C Ab. 6",SELECTED
+19,Troponin 17,SELECTED
+20,BNP8,SELECTED NOT_SELECTED X
+21,Pregnancy Test 9,SELECTED X
+22,ECHO10,SELECTED X
+23,12-lead ECG,SELECTED

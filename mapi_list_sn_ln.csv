@@ -824,7 +824,7 @@ HUI®,Health Utilities Index
 IBDQ,Inflammatory Bowel Disease Questionnaire
 IBDQOL,Inflammatory Bowel Disease Quality of Life Questionnaire
 IBQ,Illness Behavior Questionnaire
-IBS-36,IBS-36
+IBS-36,irritable bowel syndrome
 IBS-QOL,Irritable Bowel Syndrome - Quality Of  Life
 IDQOL,Infants' Dermatitis QOL Index
 IDS,Illness Distress Scale
@@ -3254,7 +3254,7 @@ FS,Flexibility Scale
 PACI,Pain Assessment in Communicatively Impaired
 CYBOCS - ASD,Children's Yale-Brown Obsessive Compulsive Scale in Autism Spectrum Disorde...
 SOADAS,Satisfaction with Oral Anti-Diabetic Agents Scale
-Psychiatric Symptom Frequency Scale,PSF
+PSF,Psychiatric Symptom Frequency Scale
 CGSQ,Caregiver Strain Questionnaire
 QUALIDEM,QUALIDEM
 CGSQ-SF7,Caregiver Strain Questionnaire - Short Form
@@ -4290,9 +4290,9 @@ Parkinson'sDQoL,Parkinson's Dependent Quality of Life
 MemoryDQoL,Memory Dependent Quality of Life
 MemoryTSQ,Memory Treatment Satisfaction Questionnaire
 SWLS-3,Satisfaction With Life Scale-3
-Tardieu Scale,TS
-Modified Tardieu Scale,MTS
-MCBS,Mutual Communal Behaviors Scale
+TS,Tardieu Scale
+MTS,Modified Tardieu Scale
+Mutual Communal Behaviors Scale,MCBS
 ETBB,Experience of Treatment Benefits and Barriers
 EyeDQoL,Eye Dependent Quality of Life
 EyeTSQ,Eye Treatment Satisfaction Questionnaire
@@ -4969,7 +4969,7 @@ CUCQ+,Crohn's and Ulcerative Colitis Questionnaire +
 ECCI,Endoscopic–Clinical Correlation Index
 EIQ,Eppendorf Itch Questionnaire
 PKDIA,Pyruvate Kinase Deficiency Impact Assessment
-FES,Duplicate: Falls Efficacy Scale
+FES,Falls Efficacy Scale
 M-FES,Modified Falls Efficacy Scale
 CBI,Copenhagen Burnout Inventory
 Icon-FES,Falls Efficacy Scale-International
@@ -5650,7 +5650,7 @@ LFQ,Lung Function Questionnaire
 SvH scoring method,Sharp/van der Heijde scoring method
 ACR20/50/70,American College of Rheumatology 20/50/70 Response Criteria
 HAQ,Health Assessment Questionnaire
-SF-36® / SF-36v2®,SF-36 Health Survey
+SF-36,SF-36 Health Survey
 C-ACT,Childhood Asthma Control Test
 WPAI:Uveitis v2.0,"Work Productivity and Activity Impairment Questionnaire: Uveitis, Vers..."
 PSP,Personal and Social Performance Scale

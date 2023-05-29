@@ -1,0 +1,26 @@
+Visit,Visit 1,Visit 2,Visit 3,Visit 4,Visit 5,Visit 6
+ ,Screening,Baselinea,Week 2,Week 4,Week 8,Week 12/EOSb
+Days,-90 to -7,1,15 (4),29 ( 4),57 (7),85 ( 7)
+Informed Consent/Assent,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Demographics,SELECTED X, ,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Inclusion/Exclusion Criteria,SELECTED X,Xc,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Medical History,SELECTED X,X (updated),NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Concomitant Medications and Procedures/Therapies,SELECTED X,X,SELECTED X,SELECTED X,SELECTED X,SELECTED X
+Genetic testing/confirmation,SELECTED X, ,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Physical Examinationd,SELECTED X,X (abbreviated),NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,X (abbreviated)
+Vital Signs,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X
+Clinical Laboratory Tests,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X
+Urine Pregnancy Testing for WOCBP,NOT_SELECTED,X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X
+Photography (Select Sites and Subjects having remote visits),NOT_SELECTED,X,SELECTED X,SELECTED X,SELECTED X,SELECTED X
+Clinical Evaluations (VIIS and IGA) (select Target for VIIS assessment),SELECTED X,Confirm (prior to treatment application),SELECTED X,SELECTED X,SELECTED X,SELECTED X
+Record percent of BSA with CI in the VIIS Assessment Area and the Treatment Area,SELECTED X,Confirm,SELECTED X,SELECTED X,SELECTED X,SELECTED X
+Age-appropriate Dermatology Life Quality Index and I-NRS,NOT_SELECTED,X,NOT_SELECTED,NOT_SELECTED,SELECTED X,SELECTED X
+Local Skin Reactions,NOT_SELECTED,X (prior to treatment application),SELECTED X,SELECTED X,SELECTED X,SELECTED X
+Randomization,SELECTED X, ,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED
+Visit,Visit 1,Visit 2,Visit 3,Visit 4,Visit 5,Visit 6
+ ,Screening,Baselinea,Week 2,Week 4,Week 8,Week 12/EOSb
+Study Treatment Accountability and dispensation to subject,NOT_SELECTED,X,SELECTED X,SELECTED X,X,X
+Demonstrate how to apply the study treatment,NOT_SELECTED,X,SELECTED X,X,X, 
+"Subject Diary: Dispense (D), Review (R), and/or Collect (C)",NOT_SELECTED,D,C+R+D,C+R+D,C+R+D,C+R
+Instruct Subject to Continue Daily Treatment,NOT_SELECTED,X,SELECTED X,SELECTED X,SELECTED X, 
+Adverse Events,SELECTED X,NOT_SELECTED Xk,SELECTED X,SELECTED X,SELECTED X,SELECTED X¹

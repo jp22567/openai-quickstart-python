@@ -1,0 +1,7 @@
+List of Validated clinical questionnaires:
+
+HRQOL: MSQOL-54,
+Anxiety and depression: HADS,
+Fatigue: FSS,
+IPAQ-SF,
+Disability: PDDS

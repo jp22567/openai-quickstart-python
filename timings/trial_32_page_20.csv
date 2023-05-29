@@ -1,0 +1,18 @@
+,Endpoint,Name,Description,Timeframe
+1,Primary,Dermatology Life Quality Index (DLQI),Proportion of subjects who achieve a > 4-point reduction from baseline,Weeks 16
+2,Secondary,DLQI,Proportion of subjects who achieve a > 4-point reduction from baseline,"Weeks 32, 52"
+3,,DLQI,Mean change from baseline,"Weeks 16, 32, 52"
+4,,Itch Numeric Rating Scale (NRS),Mean change from baseline in Itch NRS score,"Weeks 16,32,52"
+5,,Skin Discomfort/Pain Visual Analog Scale (VAS),Mean change from baseline in skin discomfort/pain VAS,"Weeks 16,32,52"
+6,,Body Surface Area (BSA),Mean percent change in BSA affected by psoriasis,"Weeks 16,32,52"
+7,,Patient Benefit Index (PBI),Proportion of subjects who achieve PBI score of > 1,"Weeks 16,32,52"
+8,,Psoriasis Area Severity Index (PASI),Proportion of subjects who achieve PASI < 3,"Weeks 16,32,52"
+9,,European Quality of Life 5- Dimension (EQ-5D),Mean percent change from baseline in EQ-5D score,"Weeks 16, 52"
+10,,Work Productivity and Activity Impairment Questionnaire: Psoriasis (WPAI: PSO),Mean change in WPAI domain scores,"Weeks 16, 52"
+11,,Treatment-emergent Adverse events,"Frequency and incidence rate of any TEAE by SOC, PT, severity, and relationship of adverse events (AEs) to investigational product (IP).",During double- blinded treatment and throughout the duration of the apremilast treatment
+12,,"Clinically significant changes in body weight, waist circumference, vital signs, and/or laboratory findings","Frequency of clinically significant changes in body weight, waist circumference, vital signs, and/or laboratory findings.",During double- blinded treatment and throughout the duration of the apremilast treatment
+13,Exploratory,Static Physician Global Assessment (sPGA) of Visible locations,"Proportion of subjects who achieve sPGA score of 0 or 1 (among subjects randomized with moderate to severe psoriasis in visible areas, defined as sPGA > 3, which include the dorsal hand, face, neck, or hairline)","Weeks 16, 32, 52"
+14,,Scalp Physician Global Assessment (ScPGA),"Proportion of subjects who achieve ScPGA score of 0 or 1 (among subjects randomized with moderate to severe scalp psoriasis, ScPGA > 3)","Weeks 16, 32, 52"
+15,,Nail Psoriasis Severity Index (NAPSI),"Proportion of subjects who achieve NAPSI score of 0 in the target fingernail (among subjects randomized with presence of nail psoriasis, defined as onycholysis and onychodystrophy in at least 2 fingernails)","Weeks 16, 32, 52"
+16,,Modified Static Physician Global Assessment-Genitalia (sPGA-G),"Proportion of subjects who achieve modified sPGA-G score of 0 or 1 (among subjects randomized with moderate to severe genital psoriasis, modified sPGA-G > 3)","Weeks 16, 32, 52"
+17,,Palmoplantar Psoriasis Physician Global Assessment (PPPGA),"Proportion of subjects who achieve PPPGA score of 0 or 1 (among subjects randomized with moderate to severe palmoplantar psoriasis, PPPGA > 3)","Weeks 16, 32, 52"

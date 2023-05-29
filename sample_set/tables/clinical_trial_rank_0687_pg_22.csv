@@ -1,0 +1,15 @@
+,Study Assessments¹,Screen¹,Notes
+1,Disease Evaluation, ,"(i.e., if CT scan was used as baseline, participant needs to be followed by CT scans). Plasmacytoma measurements should be"
+2,Beta2 microglobulin,SELECTED,"taken from the CT portion of the PET/CT, or MRI scans, or dedicated CT scans where applicable. For participants with skin only"
+3,Skeletal survey11,SELECTED,"involvement, skin lesions should be measured with a ruler. Measurement of tumor size will be determined by the Sum of the"
+4,Imaging for Extramedullary disease12,SELECTED X,Products of the maximal perpendicular diameters of measured lesions (SPD). Imaging will be collected for independent review. For sites in Germany: Only MRI is allowed to be used as imaging modality for participants with extramedullary disease.
+5,UPEP (Urine Protein Electrophoresis) 24 hr. urine collection Urine immunofixation,SELECTED SELECTED X X,"13. Only required for participants with IgD/E myeloma, where serum m-component cannot be followed otherwise. 14. FISH testing at least for: t (4;14), t (14;16), and 17p13del. FISH results from samples taken within 60 days prior to first dose are acceptable. If testing cannot be performed at a local lab, a bone marrow aspirate can be sent to central lab for analysis. If the"
+6,SPEP (Serum Protein Electrophoresis),SELECTED,"patient is known to have high risk disease from previous FISH tests regardless of timing (i.e.: t(4;14), or t(14;16) they should be stratified as High Risk for the purpose of enrollment."
+7,"Serum Immunofixation Serum Kappa, Lambda free Light chain, FLC ratio",SELECTED SELECTED,"15. Minimal residual disease (MRD) to be performed by the central lab at screening, at the time of first achieving VGPR or CR, repeat MRD testing 6 mo and 12 mo after achieving VGPR or CR (provided VGPR/CR is maintained)."
+8,Calcium corrected for albumin (serum),SELECTED,16. Bone Marrow (aspirate preferred) for disease assessment performed within the screening period prior to first dose is acceptable.
+9,"NOT_SELECTED lgG, IgM, IgA lgD/E13 Bone Marrow (BM) Aspiration/Biopsy BM for FISH 14 BM aspirate for BCMA IHC assessment",SELECTED SELECTED SELECTED SELECTED X X, 
+10,BM for MRD testing15,SELECTED X, 
+11,BM for disease assessment16,SELECTED, 
+12,Health Outcomes PRO-CTCAE,SELECTED SELECTED, 
+13,NEI-VFQ-25,SELECTED, 
+14,OSDI,SELECTED X,NOT_SELECTED

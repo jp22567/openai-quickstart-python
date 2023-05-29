@@ -1,0 +1,30 @@
+, ,Inclusion (baseline),Midway (6 weeks),Post-intervention (12 weeks),Follow-up (16 weeks)
+1,"Informed consent, TOLCA",SELECTED X, , , 
+2,Informed consent (PRIMAB) 1,SELECTED X,NOT_SELECTED, , 
+3,Clinical and medical data,SELECTED X,X,X,X
+4,Demographics,SELECTED X,NOT_SELECTED, , 
+5,"Health status (ECOG, CCI, CARG toxicity risk score)",NOT_SELECTED X,NOT_SELECTED, , 
+6,Feasibility measures, , , , 
+7,Recruitment rates,X, , , 
+8,Retention,NOT_SELECTED X,SELECTED X,X,X
+9,Adherence, ,X,X, 
+10,Adverse events, ,X,X, 
+11,Patients satisfaction, , ,X, 
+12,PROMs, , , , 
+13,PRPS,X,X,X,X
+14,MDASI (measured once weekly),NOT_SELECTED X,SELECTED X,SELECTED X,X
+15,EORTC QLQ-C30 & BR23,X,X,X,X
+16,HADS,X,X,X,X
+17,Physical tests, , , , 
+18,30s-CST (primary outcome),X,X,X,X
+19,6MWT,X,X,X,X
+20,"Gait speed, 6 m and 10m",X,X,X,X
+21,Handgrip strength,SELECTED X,X,X,X
+22,Stair climb test,X,X,X,X
+23,Physical activity,SELECTED X, ,X, 
+24,Biomarkers related to inflammation,SELECTED X,X,X, 
+25,Oncological treatment/toxicity,SELECTED X,X,X,X
+26,Body measures and composition, , , , 
+27,"Weight, BMI",X,X,X,X
+28,DXA scan,X, ,X, 
+29,BI,X, ,X, 

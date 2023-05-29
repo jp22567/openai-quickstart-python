@@ -1,0 +1,25 @@
+Table 3-2,Study,VX18-445-109:, ,Treatment,Period and,Safety,Follow-up,Visit, , , , , 
+ ,TEZ/IVA Period (4,Run-in weeks), , , ,Treatment,Period (24,weeks), , , ,Safety Follow-up, 
+Event/ Assessment,Day -28 1 day,Day -14 (Day -15 to Day -3),Day 1d,Day 15 3 days,Week 4 5 days,Week 8 5 days,Week 12 5 days,Week 16 5 days,Week 20 5 days,Week 24 5 days,ETT Visitb,Visit (28 7 Days After Last Dose of Study Drug),Comments
+Clinic visit,SELECTED X,SELECTED X,X,X,X,X,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED,X, 
+Telephone contact, , , , , , ,X,NOT_SELECTED,X, , , ,"Assess the subject's status, any AEs, concomitant medications, treatments, and procedures."
+Inclusion and exclusion criteria confirmation,X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED, , 
+CFQ-R,NOT_SELECTED,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,X,NOT_SELECTED,X,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED X,Completed before any other assessments scheduled at relevant visits (Section 11.4.1).
+Weight and height,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X,Measured with shoes off. Height will only be collected for subjects 21 years of age on the date of informed consent (Section 11.4.3).
+Ophthalmologic examination,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED,"Subjects <18 years of age on the date of informed consent and who completed at least 12 weeks of study drug treatment will have a single ophthalmologic examination at either the ETT or Week 24 Visit, whichever comes first (Section 11.5.6)."
+Complete physical examination,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED X,SELECTED X,NOT_SELECTED,Symptom directed physical examinations may be performed at any time if deemed necessary by the investigator (Section 11.5.3).
+Event/ Assessment,Day -28 1 day,Day -14 (Day -15 to Day -3),Day 1d,Day 15 3 days,Week 4 5 days,Week 8 5 days,Week 12 5 days,Week 16 5 days,Week 20 5 days,Week 24 5 days,ETT Visit,Visit (28 7 Days After Last Dose of Study Drug),Comments
+Pregnancy testing (all female subjects),urine,NOT_SELECTED,urine,urine,urine,urine,urine,urine,urine,urine,serum,serum,"At telephone contacts, a urine pregnancy test will be performed with a home kit provided by the study site. Results will be reported to the site by telephone."
+Standard 12-lead ECG,NOT_SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED,X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,X,SELECTED X,NOT_SELECTED X,Performed after subject has been at rest for at least 5 minutes (Section 11.5.5).
+Vital signs and pulse oximetry,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED X,Performed after subject has been at rest for at least 5 minutes (Sections 11.5.3 and 11.5.4).
+Spirometry,NOT_SELECTED,NOT_SELECTED X,SELECTED X,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED X,SELECTED X,NOT_SELECTED X,Should be performed pre-bronchodilator and at approximately the same time at each visit (Section 11.4.2).
+Sweat chloride,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED,"At each time point, 2 samples will be collected (1 from each arm, Section 11.3)."
+Urinalysis,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X,SELECTED X,NOT_SELECTED, 
+Hematology,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,X, 
+Coagulation,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,SELECTED X,SELECTED X,X, 
+Serum chemistry,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,SELECTED X,NOT_SELECTED,SELECTED X,SELECTED X,SELECTED X, 
+Run-in TEZ/IVA dosing,Day -28 on,to evening Day 1,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED, 
+Run-in TEZ/IVA drug count,SELECTED X,SELECTED X,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED, 
+Randomization,NOT_SELECTED,NOT_SELECTED,SELECTED X,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED,May occur on Day -1 or Day 1 after eligibility for entry into the Treatment Period has been satisfied.
+Randomized study drug dosing,NOT_SELECTED,NOT_SELECTED, ,Day,1 through,evening before,Week 24,Visit, ,NOT_SELECTED,NOT_SELECTED,NOT_SELECTED, 
+Randomized study drug count,NOT_SELECTED, ,SELECTED X,SELECTED X,X,X, ,X,NOT_SELECTED,SELECTED X,SELECTED X, , 
