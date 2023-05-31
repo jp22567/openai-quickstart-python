@@ -1,9 +1,0 @@
-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
-
-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
-
-
-curl https://api.openai.com/v1/completions \
--H "Content-Type: application/json" \
--H "Authorization: Bearer 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" \
--d '{"model": "text-davinci-003", "prompt": "Say this is a test", "temperature": 0, "max_tokens": 7}'
